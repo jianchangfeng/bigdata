@@ -1,0 +1,180 @@
+package bigdata.mapreduce.log_analysis;
+
+import bigdata.io.*;
+import bigdata.lib.Test_tmp_FilePartitioner;
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.conf.Configured;
+import org.apache.hadoop.fs.FileSystem;
+import org.apache.hadoop.fs.Path;
+import org.apache.hadoop.io.LongWritable;
+import org.apache.hadoop.io.NullWritable;
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapreduce.Job;
+import org.apache.hadoop.mapreduce.Mapper;
+import org.apache.hadoop.mapreduce.Reducer;
+import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
+import org.apache.hadoop.mapreduce.lib.input.FileSplit;
+import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
+import org.apache.hadoop.util.Tool;
+import org.apache.hadoop.util.ToolRunner;
+
+import java.io.IOException;
+import java.util.HashMap;
+
+public class DateGeocodingMRJob extends Configured implements Tool {
+
+    //Map阶段
+    public static class DateGeocodingMRJobMap extends Mapper<LongWritable,Text, Text, ReduceSideJoinWritableTest>{
+
+        @Override
+        protected void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
+            //id,advertiser_id,duration,position,area_id,terminal_id,view_type,device_id,date
+            FileSplit fileSplit = (FileSplit) context.getInputSplit();
+            String fileName = fileSplit.getPath().getName();//获取文件名称
+            String line = value.toString();
+            String[] fields = line.split("\t");
+            ReduceSideJoinWritableTest input = new ReduceSideJoinWritableTest();
+
+            String date = fields[8];
+            input.setDate(date);
+            String areaId = fields[4];
+            if(areaId !=null && !areaId.equals("")){
+                input.setAreaId(areaId);
+            }
+            String viewType = fields[6];
+            if(viewType !=null && !viewType.equals("")){
+                int viewTypeInt = Integer.parseInt(viewType);
+                if(viewTypeInt == 1){//曝光
+                    input.setPv(1);
+                }else if(viewTypeInt == 2){
+                    input.setClick(1);
+                }
+                context.write(new Text(areaId),input);
+                System.out.println(context);
+            }
+        }
+    }
+
+    //Reduce阶段
+    public static class DateGeocodingMRJobReduce extends Reducer<Text, ReduceSideJoinWritableTest, Text, ReduceSideJoinWritableTest>{
+        private ReduceSideJoinWritableTest filereport = new ReduceSideJoinWritableTest();
+        private HashMap<String,String> FileTaskMap = new HashMap<>();
+        @Override
+        protected void setup(Context context) throws IOException, InterruptedException {
+            //setup方法用于reducer的初识化配置，只执行一次
+            /**
+             1.1 ad_20190101.txt
+             1.2 ad_20190102.txt
+             2.1 ad_20190103.txt
+             2.2 ad_20190104.txt
+             3.1 ad_20190105.txt
+             4.1 ad_20190106.txt
+             5.1 ad_20190107.txt
+             */
+            FileTaskMap.put("20190101","ad_20190101.txt");
+            FileTaskMap.put("20190102","ad_20190102.txt");
+            FileTaskMap.put("20190103","ad_20190103.txt");
+            FileTaskMap.put("20190104","ad_20190104.txt");
+            FileTaskMap.put("20190105","ad_20190105.txt");
+            FileTaskMap.put("20190106","ad_20190106.txt");
+            FileTaskMap.put("20190107","ad_20190107.txt");
+        }
+        @Override
+        protected void reduce(Text key, Iterable<ReduceSideJoinWritableTest> values, Context context) throws IOException, InterruptedException {
+            System.out.println(key);
+            if ("".equals(filereport.getfilename())) {
+                String filename = FileTaskMap.get(key.toString());//通过时间获取获取filename
+                filereport.setfilename(filename);
+            }
+
+            for (ReduceSideJoinWritableTest value : values) {
+                filereport.plusPv(value.getPv());
+                filereport.plusClick(value.getClick());
+            }
+
+            context.write(key,filereport);
+        }
+        @Override
+        protected void cleanup(Context context) throws IOException, InterruptedException {
+            //cleanup方法用于释放reducer中使用的资源，在reduce task结束的时候调用，只执行一次
+            }
+    }
+
+    @Override
+    public int run(String[] args) throws InterruptedException, IOException, ClassNotFoundException {
+        Configuration conf = this.getConf();
+        Job job = null;
+        //2.创建job
+        try {
+            job = Job.getInstance(conf);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        job.setJarByClass(DateGeocodingMRJob.class);
+
+        //3.给job添加执行流程
+
+        //3.1 HDFS中需要处理的文件路径
+        Path path = new Path(args[0]);
+
+        try {
+            //job添加输入路径
+            FileInputFormat.addInputPath(job,path);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        //3.2设置map执行阶段
+        job.setMapperClass(DateGeocodingMRJobMap.class);
+        job.setMapOutputKeyClass(Text.class);//map输出key类型
+        job.setMapOutputValueClass(ReduceSideJoinWritableTest.class); //map输出value类型
+
+        //3.3设置reduce执行阶段
+        job.setReducerClass(DateGeocodingMRJobReduce.class);
+        job.setOutputKeyClass(Text.class);//reduce输出key类型
+        job.setOutputValueClass(ReduceSideJoinWritableTest.class);//reduce输出value类型
+
+        job.setNumReduceTasks(7);//硬编码，不灵活
+
+        job.setPartitionerClass(FilePartitioner.class);//设置自定义的partitioner
+
+        //3.4设置job计算结果输出路径
+        Path output = new Path(args[1]);
+        FileOutputFormat.setOutputPath(job,output);
+        //4. 提交job，并等待job执行完成
+
+        boolean result = job.waitForCompletion(true);
+        return result ? 0 : 1;
+    }
+
+    public static void main(String[] args) {
+        //用于本地测试
+        if(args.length == 0){
+            args = new String[]{
+                    "hdfs://ns/mr_project/ad_log",
+                    "hdfs://ns/mr_project/log_analysis/test"
+            };
+        }
+        //1.配置job
+        Configuration conf = new Configuration();
+        Path hdfsOutputPath = new Path(args[1]);//mr在hdfs上的输出路径
+        try {
+            //如果mr的输出结果路径存在，则删除
+            FileSystem fileSystem = FileSystem.get(conf);
+            if(fileSystem.exists(hdfsOutputPath)){
+                fileSystem.delete(hdfsOutputPath,true);
+                System.out.println("output the result");
+            }
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        try {
+            int status = ToolRunner.run(conf,new DateGeocodingMRJob(),args);
+            System.exit(status);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+}

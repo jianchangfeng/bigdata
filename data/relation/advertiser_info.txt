@@ -1,0 +1,10 @@
+baojie	宝洁
+apple	苹果
+xiaomi	小米
+huawei	华为
+jd	京东
+lv	路易威登
+chanel	香奈儿
+maotai	茅台
+pinduoduo	拼多多
+microsoft	微软
