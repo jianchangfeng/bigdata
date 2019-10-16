@@ -10,7 +10,7 @@ import org.apache.spark.streaming.{Seconds, StreamingContext}
 //3 use test;
 //4 show tables;
 //5 create table result(uid varchar(30), click_count int);
-object SQLSaveResult {
+object D6_SQLSaveResult {
   def main(args: Array[String]){
     val master = if (args.length > 0) args(0).toString else "local[*]"
     val hostname = if (args.length > 1) args(1).toString else "localhost"

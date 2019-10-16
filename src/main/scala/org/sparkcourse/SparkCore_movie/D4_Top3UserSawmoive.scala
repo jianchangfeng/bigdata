@@ -1,7 +1,7 @@
 package org.sparkcourse.SparkCore_movie
 import org.apache.spark.{SparkConf, SparkContext}
 
-object Top3UserSawmoive {
+object D4_Top3UserSawmoive {
   def main(args: Array[String]): Unit = {
     val master = if (args.length > 0) args(0).toString else "local"
     val conf = new SparkConf().setMaster(master).setAppName("TopKMovie").set("spark.io.compression.codec", "snappy")

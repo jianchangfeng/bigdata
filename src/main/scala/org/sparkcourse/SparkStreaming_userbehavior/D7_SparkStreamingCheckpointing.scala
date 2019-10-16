@@ -6,7 +6,7 @@ import _root_.kafka.serializer.StringDecoder
 import org.apache.spark.streaming.kafka.KafkaUtils
 
 // Why checkpointing: http://spark.apache.org/docs/latest/streaming-kafka-0-8-integration.html
-object SparkStreamingCheckpointing {
+object D7_SparkStreamingCheckpointing {
   def main(args: Array[String]): Unit = {
     val master = if (args.length > 0) args(0).toString else "local[*]"
     val checkpoint = if (args.length > 1) args(1).toString else "_checkpoint"

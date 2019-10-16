@@ -21,10 +21,11 @@ public class D2_01_SumGroupByMRJobNew extends Configured implements Tool {
 
     //Map阶段
     public static class SumGroupByMapper extends Mapper<LongWritable,Text, Text, D2_AdMetricWritable>{
-
+        private int mapCounter = 0;
         @Override
         protected void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
             //id,advertiser_id,duration,position,area_id,terminal_id,view_type,device_id,date
+            System.out.println("第" + mapCounter + "次被调用 map！");
             String line = value.toString();
             String[] fields = line.split("\t");
 
@@ -39,14 +40,18 @@ public class D2_01_SumGroupByMRJobNew extends Configured implements Tool {
                     adMetric.setClick(1);
                 }
                 context.write(new Text(date),adMetric);
+                mapCounter += 1;
             }
-        }
+            }
+
     }
 
     //Reduce阶段
     public static class SumGroupByReducer extends Reducer<Text, D2_AdMetricWritable, Text, D2_AdMetricWritable>{
+        private int reduceCounter = 0;
         @Override
         protected void reduce(Text key, Iterable<D2_AdMetricWritable> values, Context context) throws IOException, InterruptedException {
+            System.out.println("第" + reduceCounter + "次被调用 reduce！");
             long pv = 0;
             long click = 0;
             float clickRate = 0;
@@ -60,6 +65,7 @@ public class D2_01_SumGroupByMRJobNew extends Configured implements Tool {
             }
             D2_AdMetricWritable ad = new D2_AdMetricWritable(pv,click,clickRate);
             context.write(key,ad);
+            reduceCounter += 1;
         }
     }
 

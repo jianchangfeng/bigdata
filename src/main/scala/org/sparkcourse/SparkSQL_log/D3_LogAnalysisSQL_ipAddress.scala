@@ -2,7 +2,7 @@ package org.sparkcourse.SparkSQL_log
 
 import org.apache.spark.sql.SparkSession
 
-object LogAnalysisSQL_ReCodeNum {
+object D3_LogAnalysisSQL_ipAddress {
   def main(args: Array[String]): Unit = {
     val spark = SparkSession.builder()
       .appName("Log Analysize")
@@ -17,10 +17,12 @@ object LogAnalysisSQL_ReCodeNum {
 
     accessLogs.createOrReplaceTempView("logs")
 
-    // 统计每种返回码的数量.
-        val responseCodeToCount = spark.sql("SELECT responseCode, COUNT(*) FROM logs GROUP BY responseCode LIMIT 100")
-          .map(row => (row.getInt(0), row.getLong(1)))
-          .collect()
-        responseCodeToCount.foreach(print(_))
+    // 统计哪个IP地址访问服务器超过10次
+      val ipAddresses = spark.sql("SELECT ipAddress, COUNT(*) AS total FROM logs GROUP BY ipAddress HAVING total > 10 LIMIT 100")
+        .map(row => row.getString(0))
+        .collect()
+      ipAddresses.foreach(println(_))
+
   }
+
 }

@@ -2,7 +2,7 @@ package org.sparkcourse.SparkCore_movie
 
 import org.apache.spark.{SparkConf, SparkContext}
 
-object Distribution_SawSixtheenCandles {
+object D1_Distribution_SawSixtheenCandles {
   def main(args: Array[String]): Unit = {
 
     // 创建sparkcontext

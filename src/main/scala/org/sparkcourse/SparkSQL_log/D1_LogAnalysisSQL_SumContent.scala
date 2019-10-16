@@ -2,7 +2,7 @@ package org.sparkcourse.SparkSQL_log
 
 import org.apache.spark.sql.{Row, SparkSession}
 
-object LogAnalysisSQL_SumContent {
+object D1_LogAnalysisSQL_SumContent {
   def main(args: Array[String]): Unit = {
     val spark = SparkSession.builder()
       .appName("Log Analysize")

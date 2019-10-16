@@ -2,7 +2,7 @@ package org.sparkcourse.SparkSQL_log
 
 import org.apache.spark.sql.SparkSession
 
-object LogAnalysisSQL_TopVisitor {
+object D2_LogAnalysisSQL_ReCodeNum {
   def main(args: Array[String]): Unit = {
     val spark = SparkSession.builder()
       .appName("Log Analysize")
@@ -16,11 +16,11 @@ object LogAnalysisSQL_TopVisitor {
       .map(ApacheAccessLog.parseLogLine).toDF()
 
     accessLogs.createOrReplaceTempView("logs")
-    // 查询访问量最大的访问目的地址
-    val topEndpoints = spark.sql("SELECT endpoint, COUNT(*) AS total FROM logs GROUP BY endpoint ORDER BY total DESC LIMIT 10")
-      .map(row => (row.getString(0), row.getLong(1)))
-      .collect()
-    topEndpoints.foreach(println(_))
 
+    // 统计每种返回码的数量.
+        val responseCodeToCount = spark.sql("SELECT responseCode, COUNT(*) FROM logs GROUP BY responseCode LIMIT 100")
+          .map(row => (row.getInt(0), row.getLong(1)))
+          .collect()
+        responseCodeToCount.foreach(print(_))
   }
 }

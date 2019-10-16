@@ -6,7 +6,7 @@ import org.apache.spark._
 import org.apache.spark.streaming._
 import org.apache.spark.streaming.kafka.KafkaUtils
 
-object UserBehaviorKafkaAnalytics {
+object D5_UserBehaviorKafkaAnalytics {
   def main(args: Array[String]): Unit = {
     val master = if (args.length > 0) args(0).toString else "local[*]"
     val topic = if (args.length > 1) args(1).toString else "test"

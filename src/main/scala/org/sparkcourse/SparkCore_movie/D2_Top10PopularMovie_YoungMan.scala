@@ -4,7 +4,7 @@ import org.apache.spark.{SparkConf, SparkContext}
 
 import scala.collection.immutable.HashSet
 
-object Top10PopularMovie_YoungMan {
+object D2_Top10PopularMovie_YoungMan {
   def main(args: Array[String]): Unit = {
     val master = if (args.length > 0) args(0).toString else "local"
     val conf = new SparkConf().setMaster(master).setAppName("PopularMovie").set("spark.io.compression.codec", "snappy")

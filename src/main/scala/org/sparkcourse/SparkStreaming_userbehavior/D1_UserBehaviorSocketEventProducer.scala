@@ -5,7 +5,7 @@ import scala.util.Random
 import java.io.PrintWriter
 import java.net.ServerSocket
 
-object UserBehaviorSocketEventProducer {
+object D1_UserBehaviorSocketEventProducer {
 
   private val users = Array(
     "4A4D769EB9679C054DE81B973ED5D768", "8dfeb5aaafc027d89349ac9a20b3930f",

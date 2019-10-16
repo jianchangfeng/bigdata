@@ -2,7 +2,7 @@ package org.sparkcourse.SparkSQL_log
 
 import org.apache.spark.sql.SparkSession
 
-object LogAnalysisSQL_ipAddress {
+object D5_LogAnalysisSQL_NumVistorPerIP {
   def main(args: Array[String]): Unit = {
     val spark = SparkSession.builder()
       .appName("Log Analysize")
@@ -17,11 +17,11 @@ object LogAnalysisSQL_ipAddress {
 
     accessLogs.createOrReplaceTempView("logs")
 
-    // 统计哪个IP地址访问服务器超过10次
-      val ipAddresses = spark.sql("SELECT ipAddress, COUNT(*) AS total FROM logs GROUP BY ipAddress HAVING total > 10 LIMIT 100")
-        .map(row => row.getString(0))
-        .collect()
-      ipAddresses.foreach(println(_))
+    val topEndpoints = spark.sql("SELECT ipAddress, COUNT(*) FROM logs GROUP BY ipAddress")
+      .map(row => (row.getString(0), row.getLong(1)))
+      .collect()
+
+    topEndpoints.foreach(println(_))
 
   }
 

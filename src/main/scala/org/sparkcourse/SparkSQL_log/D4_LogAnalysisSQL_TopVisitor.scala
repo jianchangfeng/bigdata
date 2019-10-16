@@ -2,7 +2,7 @@ package org.sparkcourse.SparkSQL_log
 
 import org.apache.spark.sql.SparkSession
 
-object LogAnalysisSQL_NumVistorPerIP {
+object D4_LogAnalysisSQL_TopVisitor {
   def main(args: Array[String]): Unit = {
     val spark = SparkSession.builder()
       .appName("Log Analysize")
@@ -16,13 +16,11 @@ object LogAnalysisSQL_NumVistorPerIP {
       .map(ApacheAccessLog.parseLogLine).toDF()
 
     accessLogs.createOrReplaceTempView("logs")
-
-    val topEndpoints = spark.sql("SELECT ipAddress, COUNT(*) FROM logs GROUP BY ipAddress")
+    // 查询访问量最大的访问目的地址
+    val topEndpoints = spark.sql("SELECT endpoint, COUNT(*) AS total FROM logs GROUP BY endpoint ORDER BY total DESC LIMIT 10")
       .map(row => (row.getString(0), row.getLong(1)))
       .collect()
-
     topEndpoints.foreach(println(_))
 
   }
-
 }
