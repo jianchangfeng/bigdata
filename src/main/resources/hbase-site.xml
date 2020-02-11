@@ -31,10 +31,10 @@
 	</property>
 	<property>
 		<name>hbase.rootdir</name>
-		<value>hdfs://roc15:9000/user/hbase</value>
+		<value>hdfs://node01:9000/user/hbase</value>
 	</property>
 	<property>
 		<name>hbase.zookeeper.quorum</name>
-		<value>apple:2181,roc15:2181,cedar:2181</value>
+		<value>node01:2181,node02:2181,node03:2181</value>
 	</property>
 </configuration>

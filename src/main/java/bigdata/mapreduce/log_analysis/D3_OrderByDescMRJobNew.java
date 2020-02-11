@@ -106,7 +106,7 @@ public class D3_OrderByDescMRJobNew extends Configured implements Tool {
         //用于本地测试
         if(args.length == 0){
             args = new String[]{
-                    "hdfs://ns/mr_project/log_analysis/output2",
+                    "hdfs://ns/mr_project/log_analysis/output2-1",
                     "hdfs://ns/mr_project/log_analysis/output3"
             };
         }

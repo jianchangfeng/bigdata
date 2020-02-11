@@ -3,12 +3,15 @@ import org.apache.kafka.clients.producer.*;
 import org.apache.kafka.common.serialization.StringSerializer;
 import java.util.Properties;
 import java.util.concurrent.ExecutionException;
+import java.util.concurrent.atomic.AtomicBoolean;
 
 public class ProducerClient {
     //broker列表
-    public static final String brokers = "10.192.208.176:9092, 10.193.21.244:9092, 10.192.208.130:9092";
+//    public static final String brokers = "10.192.208.176:9092, 10.193.21.244:9092, 10.192.208.130:9092";
+    public static final String brokers = "192.168.179.100:9092, 1192.168.179.101:9092, 192.168.179.102:9092";
     //producer要发送的主题名称
     public static final String topic = "topic_producer_client1";
+    public static final AtomicBoolean isRunning = new AtomicBoolean(true);
 
     /**
      * 初始化配置kafka producer客户端相关参数
@@ -137,15 +140,17 @@ public class ProducerClient {
         producer.close();
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         ProducerClient producer = new ProducerClient();
+        while(isRunning.get()){
+            Thread.sleep(5000);
+            //调用不需要传key的发送消息的方法
+            producer.sendMessage(topic,"hello kafka 1"); //异步发送消息，没有设置回调函数
+            producer.sendMessageCallback(topic,"hello kafka callback1"); //异步发送消息，并设置回调函数
 
-        //调用不需要传key的发送消息的方法
-        producer.sendMessage(topic,"hello kafka 1"); //异步发送消息，没有设置回调函数
-        producer.sendMessageCallback(topic,"hello kafka callback1"); //异步发送消息，并设置回调函数
-
-        //调用传入自定义key值的发送消息的方法
-        producer.sendMessage(topic,"key2","hello kafka 2");//异步发送消息
-        producer.sendMessageSync(topic,"key3","hello kafka sync 2");//同步发送消息
+            //调用传入自定义key值的发送消息的方法
+            producer.sendMessage(topic,"key2","hello kafka 2");//异步发送消息
+            producer.sendMessageSync(topic,"key3","hello kafka sync 2");//同步发送消息
+        }
     }
 }

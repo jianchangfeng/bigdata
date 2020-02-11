@@ -11,7 +11,8 @@ import java.util.Properties;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 public class ConsumerClient {
-    public static final String brokers = "10.192.208.176:9092, 10.193.21.244:9092, 10.192.208.130:9092";
+//    public static final String brokers = "10.192.208.176:9092, 10.193.21.244:9092, 10.192.208.130:9092";
+    public static final String brokers = "192.168.179.100:9092, 1192.168.179.101:9092, 192.168.179.102:9092";
     public static final String groupId = "cg1";
     public static final AtomicBoolean isRunning = new AtomicBoolean(true);
 
@@ -59,7 +60,7 @@ public class ConsumerClient {
         while(isRunning.get()){
             Thread.sleep(2000);
             //在poll方法中需要传入一个timeout超时时间（单位毫秒），timeout超时时间用来控制poll方法的阻塞时间
-            ConsumerRecords<String,String> records = consumer.poll(500);
+            ConsumerRecords<String,String> records = consumer.poll(5000);
             System.out.println("拉取到的消息个数：" + records.count());
 
             for(ConsumerRecord<String,String> record : records){
@@ -93,7 +94,7 @@ public class ConsumerClient {
         //4）拉取消息并消费
         while(isRunning.get()){
             Thread.sleep(2000);
-            ConsumerRecords<String,String> records = consumer.poll(500);
+            ConsumerRecords<String,String> records = consumer.poll(5000);
             System.out.println("拉取到的消息个数：" + records.count());
             //按照分区处理消息
             for(TopicPartition partition : records.partitions()){
@@ -115,7 +116,7 @@ public class ConsumerClient {
     }
 
     public static void main(String[] args) throws InterruptedException {
-        String topic = "flumeselector";
+        String topic = "topic_producer_client1";
         ConsumerClient consumer = new ConsumerClient();
         // 测试1：从订阅的主题中拉取消息消费，自动提交offset
 //         consumer.pollMessage(topic);

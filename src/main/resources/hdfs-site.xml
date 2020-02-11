@@ -30,28 +30,28 @@
 	</property>
 	<property>
 		<name>dfs.namenode.rpc-address.ns.nn1</name>
-		<value>apple:9000</value>
+		<value>node01:9000</value>
 		<description>nn1的RPC通信地址</description>
 	</property>
 	<property>
 		<name>dfs.namenode.http-address.ns.nn1</name>
-		<value>apple:50070</value>
+		<value>node01:50070</value>
 		<description>nn1的http通信地址</description>
 	</property>
 	<property>
 		<name>dfs.namenode.rpc-address.ns.nn2</name>
-		<value>cedar:9000</value>
+		<value>node02:9000</value>
 		<description>nn2的RPC通信地址</description>
 	</property>
 	<property>
 		<name>dfs.namenode.http-address.ns.nn2</name>
-		<value>cedar:50070</value>
+		<value>node02:50070</value>
 		<description>nn2的http通信地址</description>
 	</property>
 	<!--JournalNode配置 -->
 	<property>
 		<name>dfs.namenode.shared.edits.dir</name>
-		<value>qjournal://APPLE:8485;roc15:8485;cedar:8485/ns</value>
+		<value>qjournal://node01:8485;node02:8485;node03:8485/ns</value>
 	</property>
 	<property>
 		<name>dfs.journalnode.edits.dir</name>

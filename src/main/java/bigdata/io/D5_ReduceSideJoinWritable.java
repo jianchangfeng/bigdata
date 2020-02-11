@@ -16,7 +16,7 @@ public class D5_ReduceSideJoinWritable implements Writable {
     private String flag;//1：用户数文件，2：曝光、点击量文件
 
     //反序列化时，需要调用空参构造方法，如果空参构造方法被覆盖，一定要显示定义一个空参构造方法
-    public D5_ReduceSideJoinWritable(String date, String areaId, long pv, long click){}
+    public D5_ReduceSideJoinWritable(){}
 
     public D5_ReduceSideJoinWritable(String date, String areaId, long pv, long click, long userCount, String flag){
         this.date = date;
