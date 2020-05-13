@@ -9,7 +9,7 @@ public class ReadTable {
     public static void main(String[] args) {
         ReadTable object = new ReadTable();
 //        object.readTableData(args[0]);
-        object.readTableData("1");
+        object.readTableData("12");
     }
 
     public void readTableData(String rowKey) {
@@ -19,7 +19,7 @@ public class ReadTable {
 
         try {
             connection = ConnectionFactory.createConnection(config);
-            table = connection.getTable(TableName.valueOf("peoples"));
+            table = connection.getTable(TableName.valueOf("people"));
 
             Get get = new Get(Bytes.toBytes(rowKey));
 

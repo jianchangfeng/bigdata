@@ -6,7 +6,7 @@ object D1_Distribution_SawSixtheenCandles {
   def main(args: Array[String]): Unit = {
 
     // 创建sparkcontext
-    val master = if (args.length > 0) args(0).toString else "local"
+    val master = if (args.length > 0) args(0).toString else "192.168.31.100"
     val conf = new SparkConf().setMaster(master).setAppName("MovieUser").set("spark.io.compression.codec", "snappy")
     val sc = new SparkContext(conf)
     // 输入数据

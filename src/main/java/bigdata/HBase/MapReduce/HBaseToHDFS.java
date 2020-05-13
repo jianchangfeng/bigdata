@@ -25,8 +25,10 @@ import java.util.List;
 public class HBaseToHDFS {
     public static void main(String[] args) throws Exception {
         Configuration conf = HBaseConfiguration.create();
-        conf.set("fs.defaultFS", "hdfs://roc15:9000/");
-        conf.set("hbase.zookeeper.quorum", "apple:2181,roc15:2181,cedar:2181");
+//        conf.set("fs.defaultFS", "hdfs://roc15:9000/");
+//        conf.set("hbase.zookeeper.quorum", "apple:2181,roc15:2181,cedar:2181");
+        conf.set("fs.defaultFS", "hdfs://node01:9000/");
+        conf.set("hbase.zookeeper.quorum", "node01:2181,node02:2181,node03:2181");
 
         FileSystem fs = FileSystem.get(conf);
 
@@ -46,7 +48,7 @@ public class HBaseToHDFS {
                 false
         );
 
-        job.setReducerClass(HBaseToHDFSMapper.HBaseToHDFSReducer.class);
+        job.setReducerClass(HBaseToHDFSReducer.class);
         job.setOutputKeyClass(Text.class);
         job.setOutputValueClass(DoubleWritable.class);
 
@@ -60,6 +62,7 @@ public class HBaseToHDFS {
         System.exit(job.waitForCompletion(true) ? 0 : 1);
     }
 
+    // Mapper read from Hbase to HDFS
     public static class HBaseToHDFSMapper extends TableMapper<Text, IntWritable> {
         Text outKey = new Text("age");
         IntWritable outValue = new IntWritable();
@@ -67,7 +70,7 @@ public class HBaseToHDFS {
         @Override
         protected void map(ImmutableBytesWritable key, Result value, Context context) throws IOException, InterruptedException {
             boolean isContainsColumn = value.containsColumn("info".getBytes(), "age".getBytes());
-            if(isContainsColumn) {
+            if (isContainsColumn) {
                 List<Cell> listCells = value.getColumnCells("info".getBytes(), "age".getBytes());
                 Cell cell = listCells.get(0);
                 byte[] cloneValue = CellUtil.cloneValue(cell);
@@ -76,25 +79,27 @@ public class HBaseToHDFS {
                 context.write(outKey, outValue);
             }
         }
+    }
 
-        public static class HBaseToHDFSReducer extends Reducer<Text, IntWritable, Text, DoubleWritable> {
+    // Reducer read from Hbase to HDFS
+    public static class HBaseToHDFSReducer extends Reducer<Text, IntWritable, Text, DoubleWritable> {
 
-            DoubleWritable outValue = new DoubleWritable();
+        DoubleWritable outValue = new DoubleWritable();
 
-            @Override
-            protected void reduce(Text key, Iterable<IntWritable> values, Context context) throws IOException, InterruptedException {
-                int count = 0;
-                int sum = 0;
+        @Override
+        protected void reduce(Text key, Iterable<IntWritable> values, Context context) throws IOException, InterruptedException {
+            int count = 0;
+            int sum = 0;
 
-                for(IntWritable value: values) {
-                    count ++;
-                    sum += value.get();
-                }
-
-                double avgAge = sum * 1.0 / count;
-                outValue.set(avgAge);
-                context.write(key, outValue);
+            for(IntWritable value: values) {
+                count ++;
+                sum += value.get();
             }
+
+            double avgAge = sum * 1.0 / count;
+            outValue.set(avgAge);
+            context.write(key, outValue);
         }
     }
+
 }

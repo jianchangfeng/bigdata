@@ -18,7 +18,7 @@ public class CreateTable {
             connection = ConnectionFactory.createConnection(conf);
             admin = connection.getAdmin();
 
-            String tableName = "peoples";
+            String tableName = "people";
 
             if(!admin.isTableAvailable(TableName.valueOf(tableName))) {
                 HTableDescriptor hbaseTable = new HTableDescriptor(TableName.valueOf(tableName));

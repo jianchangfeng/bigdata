@@ -40,7 +40,6 @@ public class WordCountMRJob {
         }
     }
     //Reduce阶段
-
     /**
      * 输入数据键值对类型：
      * Text：输入数据的key类型

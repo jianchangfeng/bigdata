@@ -12,6 +12,9 @@ public class HBaseConfigUtil {
         //configuration.set("hbase.master","localhost:16000");
         // We can also read the config from files below
         configuration.addResource(new Path("/usr/local/hbase/conf/hbase-site.xml"));
+//        configuration.set("hbase.zookeeper.quorum", "node01");
+//        configuration.set("hbase.zookeeper.property.clientPort", "2181");
+//        configuration.set("hbase.master", "node01:16010");
         return configuration;
     }
 }

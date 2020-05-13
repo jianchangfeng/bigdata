@@ -25,9 +25,10 @@ import java.util.List;
 public class HBaseToHDFSZuoYe {
     public static void main(String[] args) throws Exception {
         Configuration conf = HBaseConfiguration.create();
-        conf.set("fs.defaultFS", "hdfs://roc15:9000/");
-        conf.set("hbase.zookeeper.quorum", "apple:2181,roc15:2181,cedar:2181");
-
+//        conf.set("fs.defaultFS", "hdfs://roc15:9000/");
+//        conf.set("hbase.zookeeper.quorum", "apple:2181,roc15:2181,cedar:2181");
+        conf.set("fs.defaultFS", "hdfs://node01:9000/");
+        conf.set("hbase.zookeeper.quorum", "node01:2181,node02:2181,node03:2181");
         FileSystem fs = FileSystem.get(conf);
 
         Job job = Job.getInstance(conf);

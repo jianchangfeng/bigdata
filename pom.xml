@@ -92,7 +92,7 @@ http://www.w3.org/2001/XMLSchema-instance ">
         <dependency>
             <groupId>org.apache.hbase</groupId>
             <artifactId>hbase-mapreduce</artifactId>
-            <version>${hbase-version}</version>
+            <version>2.1.5</version>
             <!-- 去除版本不一致的传递依赖包 -->
             <exclusions>
                 <exclusion>
@@ -160,19 +160,19 @@ http://www.w3.org/2001/XMLSchema-instance ">
             <version>${fastjson.version}</version>
         </dependency>
     </dependencies>
-    <repositories>
-        <repository>
-            <id>alimaven</id>
-            <name>aliyun maven</name>
-            <url>http://maven.aliyun.com/nexus/content/repositories/central/</url>
-            <releases>
-                <enabled>true</enabled>
-            </releases>
-            <snapshots>
-                <enabled>false</enabled>
-            </snapshots>
-        </repository>
-    </repositories>
+<!--    <repositories>-->
+<!--        <repository>-->
+<!--            <id>alimaven</id>-->
+<!--            <name>aliyun maven</name>-->
+<!--            <url>http://maven.aliyun.com/nexus/content/repositories/central/</url>-->
+<!--            <releases>-->
+<!--                <enabled>true</enabled>-->
+<!--            </releases>-->
+<!--            <snapshots>-->
+<!--                <enabled>false</enabled>-->
+<!--            </snapshots>-->
+<!--        </repository>-->
+<!--    </repositories>-->
     <build>
         <finalName>${project.artifactId}</finalName>
         <plugins>
@@ -184,7 +184,7 @@ http://www.w3.org/2001/XMLSchema-instance ">
                     <appendAssemblyId>true</appendAssemblyId>
                     <archive>
                         <manifest>
-                            <mainClass>Driver</mainClass>
+                            <mainClass>bigdata.HBase.MapReduce.Driver</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>

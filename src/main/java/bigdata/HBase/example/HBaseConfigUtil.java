@@ -8,9 +8,9 @@ public class HBaseConfigUtil {
     public static Configuration getHBaseConfiguration() {
         Configuration configuration = HBaseConfiguration.create();
         configuration.addResource(new Path("/usr/local/hbase/conf/hbase-site.xml"));
-//        configuration.set("hbase.zookeeper.quorum", "roc15");
-//        configuration.set("hbase.zookeeper.property.clientPort", "2181");
-//        configuration.set("hbase.master", "roc15:16010");
+        configuration.set("hbase.zookeeper.quorum", "node01");
+        configuration.set("hbase.zookeeper.property.clientPort", "2181");
+        configuration.set("hbase.master", "node01:16010");
         return configuration;
     }
 }

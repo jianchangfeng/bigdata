@@ -16,7 +16,7 @@ public class DeleteTable {
             connection = ConnectionFactory.createConnection(conf);
             admin = connection.getAdmin();
 
-            TableName tableName = TableName.valueOf("peoples");
+            TableName tableName = TableName.valueOf("people");
 
             if(admin.isTableAvailable(tableName)) {
                 admin.disableTable(tableName);

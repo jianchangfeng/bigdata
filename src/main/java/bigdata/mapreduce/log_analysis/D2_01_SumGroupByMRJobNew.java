@@ -72,6 +72,10 @@ public class D2_01_SumGroupByMRJobNew extends Configured implements Tool {
     @Override
     public int run(String[] args) throws InterruptedException, IOException, ClassNotFoundException {
         Configuration conf = this.getConf();
+        conf.set("yarn.resourcemanager.address", "192.168.31.100:8088");
+        conf.set("mapreduce.framework.name", "yarn");
+        conf.set("fs.defaultFS", "hdfs://192.168.31.100:9000/");
+        conf.set("mapreduce.app-submission.cross-platform", "true");   //使能跨平台运行
         Job job = null;
         //2.创建job
         try {

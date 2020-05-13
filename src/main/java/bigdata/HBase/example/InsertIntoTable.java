@@ -21,7 +21,7 @@ public class InsertIntoTable {
 
         try {
             connection = ConnectionFactory.createConnection(config);
-            table = connection.getTable(TableName.valueOf("peoples"));
+            table = connection.getTable(TableName.valueOf("people"));
 
             //			creating sample data that can be used to save into hbase table
             String[][] people = {
@@ -39,7 +39,8 @@ public class InsertIntoTable {
                     { "12", "Gabriela", "Ingram", "gabriela@xyz.com", "F", "24", "www.google.com" } };
 
             for (int i = 0; i < people.length; i ++) {
-                Put person = new Put(Bytes.toBytes(i));
+//                Put person = new Put(Bytes.toBytes(i));
+                Put person = new Put(Bytes.toBytes(people[i][0]));
                 person.addColumn(Bytes.toBytes("name"), Bytes.toBytes("first"), Bytes.toBytes(people[i][1]));
                 person.addColumn(Bytes.toBytes("name"), Bytes.toBytes("last"), Bytes.toBytes(people[i][2]));
                 person.addColumn(Bytes.toBytes("contactinfo"), Bytes.toBytes("email"), Bytes.toBytes(people[i][3]));

@@ -1,0 +1,977 @@
+products:
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\CreateTable.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\HBase\example\CreateTable.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\DeleteRecordsFromTable.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\HBase\example\DeleteRecordsFromTable.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\DeleteTable.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\HBase\example\DeleteTable.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\FilterTable.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\HBase\example\FilterTable.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\FilterTableZuoYe.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\HBase\example\FilterTableZuoYe.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\HBaseConfigUtil.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\HBase\example\HBaseConfigUtil.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\InsertIntoTable.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\HBase\example\InsertIntoTable.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\ListTables.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\HBase\example\ListTables.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\ReadTable.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\HBase\example\ReadTable.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\ScanTable.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\HBase\example\ScanTable.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\CreateTable.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\HBase\MapReduce\CreateTable.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\Driver.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\HBase\MapReduce\Driver.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseConfigUtil.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\HBase\MapReduce\HBaseConfigUtil.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFS.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\HBase\MapReduce\HBaseToHDFS$HBaseToHDFSMapper.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFS.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\HBase\MapReduce\HBaseToHDFS$HBaseToHDFSReducer.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFS.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\HBase\MapReduce\HBaseToHDFS.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFSZuoYe.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\HBase\MapReduce\HBaseToHDFSZuoYe$HBaseToHDFSMapper$HBaseToHDFSReducer.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFSZuoYe.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\HBase\MapReduce\HBaseToHDFSZuoYe$HBaseToHDFSMapper.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFSZuoYe.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\HBase\MapReduce\HBaseToHDFSZuoYe.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\ImportFromHDFS.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\HBase\MapReduce\ImportFromHDFS$HDFSToHBaseMapper.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\ImportFromHDFS.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\HBase\MapReduce\ImportFromHDFS$HDFSToHBaseReducer.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\ImportFromHDFS.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\HBase\MapReduce\ImportFromHDFS.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\hdfs\HDFSClient.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\hdfs\HDFSClient.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D2_AdMetricWritable.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\io\D2_AdMetricWritable.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D3_PVKeyWritable.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\io\D3_PVKeyWritable.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D4_TerminalTypeReportWritable.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\io\D4_TerminalTypeReportWritable.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D5_ReduceSideJoinWritable.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\io\D5_ReduceSideJoinWritable.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D7_ComplexKeyWritable.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\io\D7_ComplexKeyWritable.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D7_PVGroupComparator.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\io\D7_PVGroupComparator.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\Test_tmp_ByAreaDate_Writable.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\io\Test_tmp_ByAreaDate_Writable.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\kafka\ConsumerClient.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\kafka\ConsumerClient.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\kafka\ProducerClient.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\kafka\ProducerClient$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\kafka\ProducerClient.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\kafka\ProducerClient.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\D4_TerminalTypePartitioner.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\lib\D4_TerminalTypePartitioner.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\D6_FileType.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\lib\D6_FileType.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\D7_PVPartitioner.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\lib\D7_PVPartitioner.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\Test_Submit_AreaTypePartitioner.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\lib\Test_Submit_AreaTypePartitioner.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\Test_tmp_FilePartitioner.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\lib\Test_tmp_FilePartitioner.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D1_Get_detail_of_one_advertisement.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\D1_Get_detail_of_one_advertisement$SelectWhereMapper.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D1_Get_detail_of_one_advertisement.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\D1_Get_detail_of_one_advertisement.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_01_SumGroupByMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\D2_01_SumGroupByMRJobNew$SumGroupByMapper.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_01_SumGroupByMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\D2_01_SumGroupByMRJobNew$SumGroupByReducer.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_01_SumGroupByMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\D2_01_SumGroupByMRJobNew.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_02_SumGroupByCombinerMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\D2_02_SumGroupByCombinerMRJobNew$SumGroupByCombiner.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_02_SumGroupByCombinerMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\D2_02_SumGroupByCombinerMRJobNew$SumGroupByMapper.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_02_SumGroupByCombinerMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\D2_02_SumGroupByCombinerMRJobNew$SumGroupByReducer.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_02_SumGroupByCombinerMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\D2_02_SumGroupByCombinerMRJobNew.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D3_OrderByDescMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\D3_OrderByDescMRJobNew$OrderByDescMapper.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D3_OrderByDescMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\D3_OrderByDescMRJobNew$OrderByDescReducer.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D3_OrderByDescMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\D3_OrderByDescMRJobNew.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D4_CaseWhenSumGroupByMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\D4_CaseWhenSumGroupByMRJobNew$CaseWhenSumGroupByMapper.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D4_CaseWhenSumGroupByMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\D4_CaseWhenSumGroupByMRJobNew$CaseWhenSumGroupByReducer.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D4_CaseWhenSumGroupByMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\D4_CaseWhenSumGroupByMRJobNew.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D5_ReduceSideJoinMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\D5_ReduceSideJoinMRJobNew$ReduceSideJoinMapper.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D5_ReduceSideJoinMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\D5_ReduceSideJoinMRJobNew$ReduceSideJoinReducer.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D5_ReduceSideJoinMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\D5_ReduceSideJoinMRJobNew.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D6_MapSideJoinMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\D6_MapSideJoinMRJobNew$MapSideJoinMapper.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D6_MapSideJoinMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\D6_MapSideJoinMRJobNew.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D7_SecondSortMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\D7_SecondSortMRJobNew$SecondSortMapper.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D7_SecondSortMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\D7_SecondSortMRJobNew$SecondSortReducer.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D7_SecondSortMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\D7_SecondSortMRJobNew.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\Test_Submit_SelectUVByAreaAndDate.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\Test_Submit_SelectUVByAreaAndDate$MyMapper.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\Test_Submit_SelectUVByAreaAndDate.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\Test_Submit_SelectUVByAreaAndDate$MyReducer.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\Test_Submit_SelectUVByAreaAndDate.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\Test_Submit_SelectUVByAreaAndDate.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\Test_tmp_ByAreaDateMRJob.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\Test_tmp_ByAreaDateMRJob$TestByAreaDateMRJobMapper.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\Test_tmp_ByAreaDateMRJob.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\Test_tmp_ByAreaDateMRJob$TestByAreaDateMRJobReducer.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\Test_tmp_ByAreaDateMRJob.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\log_analysis\Test_tmp_ByAreaDateMRJob.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\WordCountMRJob.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\WordCountMRJob$WordCountMapper.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\WordCountMRJob.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\WordCountMRJob$WordCountReducer.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\WordCountMRJob.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\mapreduce\WordCountMRJob.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\udf\AgePartitionFunction.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\udf\AgePartitionFunction.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\CheckConfig_Client.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\zookeeper\CheckConfig_Client$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\CheckConfig_Client.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\zookeeper\CheckConfig_Client.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\CheckConfig_Server.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\zookeeper\CheckConfig_Server.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\DistributedClient.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\zookeeper\DistributedClient$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\DistributedClient.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\zookeeper\DistributedClient.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\DistributedServer.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\zookeeper\DistributedServer$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\DistributedServer.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\zookeeper\DistributedServer.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\ZookeeperClient.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\zookeeper\ZookeeperClient$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\ZookeeperClient.java -> C:\WORK\BigData\workspace\bigdata\target\classes\bigdata\zookeeper\ZookeeperClient.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\Java_base\java_test_basic_DaStr.java -> C:\WORK\BigData\workspace\bigdata\target\classes\Java_base\java_test_basic_DaStr.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\Java_base\JavaTest_set.java -> C:\WORK\BigData\workspace\bigdata\target\classes\Java_base\JavaTest_set.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\Java_base\PackageTest.java -> C:\WORK\BigData\workspace\bigdata\target\classes\Java_base\PackageTest.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\arrayPairSum_561.java -> C:\WORK\BigData\workspace\bigdata\target\classes\leetcode\arrayPairSum_561.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\canPlaceFlowers_605.java -> C:\WORK\BigData\workspace\bigdata\target\classes\leetcode\canPlaceFlowers_605.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\containsDuplicate_217.java -> C:\WORK\BigData\workspace\bigdata\target\classes\leetcode\containsDuplicate_217.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\containsDuplicate_219.java -> C:\WORK\BigData\workspace\bigdata\target\classes\leetcode\containsDuplicate_219.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\fib_509.java -> C:\WORK\BigData\workspace\bigdata\target\classes\leetcode\fib_509.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\findDisappearedNumbers_448.java -> C:\WORK\BigData\workspace\bigdata\target\classes\leetcode\findDisappearedNumbers_448.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\findMaxAverage_643.java -> C:\WORK\BigData\workspace\bigdata\target\classes\leetcode\findMaxAverage_643.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\findMaxConsecutiveOnes_485.java -> C:\WORK\BigData\workspace\bigdata\target\classes\leetcode\findMaxConsecutiveOnes_485.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\findPairs_532.java -> C:\WORK\BigData\workspace\bigdata\target\classes\leetcode\findPairs_532.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\findUnsortedSubarray_581.java -> C:\WORK\BigData\workspace\bigdata\target\classes\leetcode\findUnsortedSubarray_581.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\longestCommonPrefix_14.java -> C:\WORK\BigData\workspace\bigdata\target\classes\leetcode\longestCommonPrefix_14.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\majorityElement_169.java -> C:\WORK\BigData\workspace\bigdata\target\classes\leetcode\majorityElement_169.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\matrixReshape_566.java -> C:\WORK\BigData\workspace\bigdata\target\classes\leetcode\matrixReshape_566.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\maxProfit_122.java -> C:\WORK\BigData\workspace\bigdata\target\classes\leetcode\maxProfit_122.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\maxSubArray_53.java -> C:\WORK\BigData\workspace\bigdata\target\classes\leetcode\maxSubArray_53.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\mergeSortArray_88.java -> C:\WORK\BigData\workspace\bigdata\target\classes\leetcode\mergeSortArray_88.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\MissingNumber_268.java -> C:\WORK\BigData\workspace\bigdata\target\classes\leetcode\MissingNumber_268.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\moveZeroes_283.java -> C:\WORK\BigData\workspace\bigdata\target\classes\leetcode\moveZeroes_283.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\plusOne_66.java -> C:\WORK\BigData\workspace\bigdata\target\classes\leetcode\plusOne_66.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\RemoveDuplicates_26.java -> C:\WORK\BigData\workspace\bigdata\target\classes\leetcode\RemoveDuplicates_26.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\RotateArray_189.java -> C:\WORK\BigData\workspace\bigdata\target\classes\leetcode\RotateArray_189.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\searchInsert_35.java -> C:\WORK\BigData\workspace\bigdata\target\classes\leetcode\searchInsert_35.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\SumTwoNum_1.java -> C:\WORK\BigData\workspace\bigdata\target\classes\leetcode\SumTwoNum_1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\thirdMax_414.java -> C:\WORK\BigData\workspace\bigdata\target\classes\leetcode\thirdMax_414.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\TwoSum_167.java -> C:\WORK\BigData\workspace\bigdata\target\classes\leetcode\TwoSum_167.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\YHTriangle_118.java -> C:\WORK\BigData\workspace\bigdata\target\classes\leetcode\YHTriangle_118.class
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\YHTriangle_119.java -> C:\WORK\BigData\workspace\bigdata\target\classes\leetcode\YHTriangle_119.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\DemoScala.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\scalacase\DemoScala$$anonfun$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\DemoScala.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\scalacase\DemoScala$$anonfun$2.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\DemoScala.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\scalacase\DemoScala$$anonfun$collectionAndAPI$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\DemoScala.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\scalacase\DemoScala$$anonfun$collectionAndAPI$2.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\DemoScala.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\scalacase\DemoScala$$anonfun$collectionAndAPI$3.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\DemoScala.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\scalacase\DemoScala$$anonfun$collectionAndAPI$4.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\DemoScala.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\scalacase\DemoScala$$anonfun$collectionAndAPI$5.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\DemoScala.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\scalacase\DemoScala$$anonfun$collectionAndAPI$6.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\DemoScala.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\scalacase\DemoScala$$anonfun$collectionAndAPI$7.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\DemoScala.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\scalacase\DemoScala$$anonfun$controlCase$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\DemoScala.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\scalacase\DemoScala$.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\DemoScala.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\scalacase\DemoScala.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\HelloWorld.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\scalacase\HelloWorld$.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\HelloWorld.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\scalacase\HelloWorld.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\PointDemo.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\scalacase\Move.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\PointDemo.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\scalacase\Point.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\PointDemo.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\scalacase\PointDemo$.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\PointDemo.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\scalacase\PointDemo.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\PointDemo.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\scalacase\PointWithTrait$.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\PointDemo.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\scalacase\PointWithTrait.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles$$anonfun$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles$$anonfun$10.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles$$anonfun$11.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles$$anonfun$12.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles$$anonfun$13.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles$$anonfun$14.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles$$anonfun$2.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles$$anonfun$3.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles$$anonfun$4.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles$$anonfun$5.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles$$anonfun$6.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles$$anonfun$7.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles$$anonfun$8.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles$$anonfun$9.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles$$anonfun$main$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles$$anonfun$main$2.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles$$anonfun$main$3.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles$.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan$$anonfun$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan$$anonfun$10.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan$$anonfun$11.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan$$anonfun$12.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan$$anonfun$13.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan$$anonfun$14.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan$$anonfun$15.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan$$anonfun$2.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan$$anonfun$3.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan$$anonfun$4.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan$$anonfun$5.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan$$anonfun$6.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan$$anonfun$7.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan$$anonfun$8.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan$$anonfun$9.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan$$anonfun$main$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan$$anonfun$main$2.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan$.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie$$anonfun$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie$$anonfun$10.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie$$anonfun$11.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie$$anonfun$2.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie$$anonfun$3.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie$$anonfun$4.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie$$anonfun$5.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie$$anonfun$6.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie$$anonfun$7.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie$$anonfun$8.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie$$anonfun$9.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie$$anonfun$main$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie$$anonfun$main$2.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie$.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D4_Top3UserSawmoive.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D4_Top3UserSawmoive$$anonfun$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D4_Top3UserSawmoive.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D4_Top3UserSawmoive$$anonfun$2.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D4_Top3UserSawmoive.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D4_Top3UserSawmoive$$anonfun$3.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D4_Top3UserSawmoive.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D4_Top3UserSawmoive$$anonfun$4.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D4_Top3UserSawmoive.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D4_Top3UserSawmoive$$anonfun$5.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D4_Top3UserSawmoive.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D4_Top3UserSawmoive$$anonfun$6.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D4_Top3UserSawmoive.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D4_Top3UserSawmoive$.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D4_Top3UserSawmoive.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkCore_movie\D4_Top3UserSawmoive.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\ApacheAccessLog.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\ApacheAccessLog$.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\ApacheAccessLog.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\ApacheAccessLog.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D1_LogAnalysisSQL_SumContent.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D1_LogAnalysisSQL_SumContent$$anonfun$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D1_LogAnalysisSQL_SumContent.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D1_LogAnalysisSQL_SumContent$$typecreator4$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D1_LogAnalysisSQL_SumContent.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D1_LogAnalysisSQL_SumContent$.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D1_LogAnalysisSQL_SumContent.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D1_LogAnalysisSQL_SumContent.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D2_LogAnalysisSQL_ReCodeNum.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D2_LogAnalysisSQL_ReCodeNum$$anonfun$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D2_LogAnalysisSQL_ReCodeNum.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D2_LogAnalysisSQL_ReCodeNum$$anonfun$2.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D2_LogAnalysisSQL_ReCodeNum.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D2_LogAnalysisSQL_ReCodeNum$$anonfun$main$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D2_LogAnalysisSQL_ReCodeNum.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D2_LogAnalysisSQL_ReCodeNum$$typecreator4$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D2_LogAnalysisSQL_ReCodeNum.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D2_LogAnalysisSQL_ReCodeNum$$typecreator5$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D2_LogAnalysisSQL_ReCodeNum.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D2_LogAnalysisSQL_ReCodeNum$.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D2_LogAnalysisSQL_ReCodeNum.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D2_LogAnalysisSQL_ReCodeNum.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D3_LogAnalysisSQL_ipAddress.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D3_LogAnalysisSQL_ipAddress$$anonfun$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D3_LogAnalysisSQL_ipAddress.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D3_LogAnalysisSQL_ipAddress$$anonfun$2.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D3_LogAnalysisSQL_ipAddress.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D3_LogAnalysisSQL_ipAddress$$anonfun$main$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D3_LogAnalysisSQL_ipAddress.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D3_LogAnalysisSQL_ipAddress$$typecreator4$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D3_LogAnalysisSQL_ipAddress.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D3_LogAnalysisSQL_ipAddress$.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D3_LogAnalysisSQL_ipAddress.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D3_LogAnalysisSQL_ipAddress.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D4_LogAnalysisSQL_TopVisitor.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D4_LogAnalysisSQL_TopVisitor$$anonfun$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D4_LogAnalysisSQL_TopVisitor.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D4_LogAnalysisSQL_TopVisitor$$anonfun$2.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D4_LogAnalysisSQL_TopVisitor.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D4_LogAnalysisSQL_TopVisitor$$anonfun$main$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D4_LogAnalysisSQL_TopVisitor.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D4_LogAnalysisSQL_TopVisitor$$typecreator4$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D4_LogAnalysisSQL_TopVisitor.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D4_LogAnalysisSQL_TopVisitor$$typecreator5$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D4_LogAnalysisSQL_TopVisitor.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D4_LogAnalysisSQL_TopVisitor$.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D4_LogAnalysisSQL_TopVisitor.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D4_LogAnalysisSQL_TopVisitor.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D5_LogAnalysisSQL_NumVistorPerIP.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D5_LogAnalysisSQL_NumVistorPerIP$$anonfun$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D5_LogAnalysisSQL_NumVistorPerIP.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D5_LogAnalysisSQL_NumVistorPerIP$$anonfun$2.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D5_LogAnalysisSQL_NumVistorPerIP.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D5_LogAnalysisSQL_NumVistorPerIP$$anonfun$main$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D5_LogAnalysisSQL_NumVistorPerIP.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D5_LogAnalysisSQL_NumVistorPerIP$$typecreator4$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D5_LogAnalysisSQL_NumVistorPerIP.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D5_LogAnalysisSQL_NumVistorPerIP$$typecreator5$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D5_LogAnalysisSQL_NumVistorPerIP.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D5_LogAnalysisSQL_NumVistorPerIP$.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D5_LogAnalysisSQL_NumVistorPerIP.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\D5_LogAnalysisSQL_NumVistorPerIP.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\LogAnalyzerSQL.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\LogAnalyzerSQL$$anonfun$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\LogAnalyzerSQL.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\LogAnalyzerSQL$$anonfun$2.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\LogAnalyzerSQL.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\LogAnalyzerSQL$$anonfun$main$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\LogAnalyzerSQL.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\LogAnalyzerSQL$$typecreator4$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\LogAnalyzerSQL.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\LogAnalyzerSQL$$typecreator5$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\LogAnalyzerSQL.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\LogAnalyzerSQL$.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\LogAnalyzerSQL.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkSQL_log\LogAnalyzerSQL.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D1_UserBehaviorSocketEventProducer.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D1_UserBehaviorSocketEventProducer$.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D1_UserBehaviorSocketEventProducer.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D1_UserBehaviorSocketEventProducer.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D2_UserBehaviorSocketAnalytics.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D2_UserBehaviorSocketAnalytics$$anonfun$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D2_UserBehaviorSocketAnalytics.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D2_UserBehaviorSocketAnalytics$$anonfun$2.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D2_UserBehaviorSocketAnalytics.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D2_UserBehaviorSocketAnalytics$$anonfun$3.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D2_UserBehaviorSocketAnalytics.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D2_UserBehaviorSocketAnalytics$$anonfun$4$$anonfun$apply$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D2_UserBehaviorSocketAnalytics.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D2_UserBehaviorSocketAnalytics$$anonfun$4.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D2_UserBehaviorSocketAnalytics.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D2_UserBehaviorSocketAnalytics$.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D2_UserBehaviorSocketAnalytics.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D2_UserBehaviorSocketAnalytics.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics$$anonfun$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics$$anonfun$2.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics$$anonfun$3.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics$$anonfun$4.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics$$anonfun$5$$anonfun$apply$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics$$anonfun$5.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics$.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D4_KafkaEventProducer.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D4_KafkaEventProducer$.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D4_KafkaEventProducer.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D4_KafkaEventProducer.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics$$anonfun$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics$$anonfun$2.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics$$anonfun$3.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics$$anonfun$4$$anonfun$apply$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics$$anonfun$4.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics$.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult$$anonfun$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult$$anonfun$2.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult$$anonfun$3.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult$$anonfun$4$$anonfun$apply$1$$anonfun$apply$2.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult$$anonfun$4$$anonfun$apply$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult$$anonfun$4.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult$.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing$$anonfun$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing$$anonfun$2.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing$$anonfun$3.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing$$anonfun$4.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing$$anonfun$5$$anonfun$apply$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing$$anonfun$5.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing$$anonfun$6.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing$$anonfun$7.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing$$anonfun$8.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing$$anonfun$9$$anonfun$apply$2.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing$$anonfun$9.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing$.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\DBConnectionPool.java -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\DBConnectionPool.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\JDBCInsert.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\JDBCInsert$.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\JDBCInsert.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\JDBCInsert.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\util\KafkaProperties.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\util\KafkaProperties$.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\util\KafkaProperties.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkStreaming_userbehavior\util\KafkaProperties.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkTest.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkTest$$anonfun$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkTest.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkTest$$anonfun$main$1.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkTest.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkTest$.class
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkTest.scala -> C:\WORK\BigData\workspace\bigdata\target\classes\org\sparkcourse\SparkTest.class
+binary dependencies:
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\CreateTable.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\CreateTable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\CreateTable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-client\2.1.5\hbase-client-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\CreateTable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-common\2.1.5\hbase-common-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\DeleteRecordsFromTable.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\DeleteRecordsFromTable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\DeleteRecordsFromTable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-client\2.1.5\hbase-client-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\DeleteRecordsFromTable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-common\2.1.5\hbase-common-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\DeleteTable.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\DeleteTable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\DeleteTable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-client\2.1.5\hbase-client-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\DeleteTable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-common\2.1.5\hbase-common-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\FilterTable.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\FilterTable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\FilterTable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-client\2.1.5\hbase-client-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\FilterTable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-common\2.1.5\hbase-common-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\FilterTableZuoYe.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\FilterTableZuoYe.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\FilterTableZuoYe.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-client\2.1.5\hbase-client-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\FilterTableZuoYe.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-common\2.1.5\hbase-common-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\HBaseConfigUtil.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\HBaseConfigUtil.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\HBaseConfigUtil.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-common\2.1.5\hbase-common-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\InsertIntoTable.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\InsertIntoTable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\InsertIntoTable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-client\2.1.5\hbase-client-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\InsertIntoTable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-common\2.1.5\hbase-common-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\ListTables.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\ListTables.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\ListTables.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-client\2.1.5\hbase-client-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\ReadTable.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\ReadTable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\ReadTable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-client\2.1.5\hbase-client-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\ReadTable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-common\2.1.5\hbase-common-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\ScanTable.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\ScanTable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\ScanTable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-client\2.1.5\hbase-client-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\ScanTable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-common\2.1.5\hbase-common-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\CreateTable.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\CreateTable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\CreateTable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-client\2.1.5\hbase-client-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\CreateTable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-common\2.1.5\hbase-common-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\Driver.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\Driver.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseConfigUtil.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseConfigUtil.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseConfigUtil.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-common\2.1.5\hbase-common-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFS.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFS.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFS.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-mapreduce-client-core\2.7.7\hadoop-mapreduce-client-core-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFS.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-client\2.1.5\hbase-client-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFS.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-common\2.1.5\hbase-common-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFS.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-mapreduce\2.1.5\hbase-mapreduce-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFSZuoYe.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFSZuoYe.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFSZuoYe.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-mapreduce-client-core\2.7.7\hadoop-mapreduce-client-core-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFSZuoYe.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-client\2.1.5\hbase-client-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFSZuoYe.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-common\2.1.5\hbase-common-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFSZuoYe.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-mapreduce\2.1.5\hbase-mapreduce-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\ImportFromHDFS.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\ImportFromHDFS.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\ImportFromHDFS.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-mapreduce-client-core\2.7.7\hadoop-mapreduce-client-core-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\ImportFromHDFS.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-client\2.1.5\hbase-client-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\ImportFromHDFS.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-common\2.1.5\hbase-common-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\ImportFromHDFS.java -> C:\Users\nxf34947\.m2\repository\org\apache\hbase\hbase-mapreduce\2.1.5\hbase-mapreduce-2.1.5.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\hdfs\HDFSClient.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\hdfs\HDFSClient.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D2_AdMetricWritable.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D2_AdMetricWritable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D3_PVKeyWritable.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D3_PVKeyWritable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D4_TerminalTypeReportWritable.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D4_TerminalTypeReportWritable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D5_ReduceSideJoinWritable.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D5_ReduceSideJoinWritable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D7_ComplexKeyWritable.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D7_ComplexKeyWritable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D7_PVGroupComparator.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D7_PVGroupComparator.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\Test_tmp_ByAreaDate_Writable.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\Test_tmp_ByAreaDate_Writable.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\kafka\ConsumerClient.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\kafka\ConsumerClient.java -> C:\Users\nxf34947\.m2\repository\org\apache\kafka\kafka-clients\0.10.2.0\kafka-clients-0.10.2.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\kafka\ProducerClient.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\kafka\ProducerClient.java -> C:\Users\nxf34947\.m2\repository\org\apache\kafka\kafka-clients\0.10.2.0\kafka-clients-0.10.2.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\D4_TerminalTypePartitioner.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\D4_TerminalTypePartitioner.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\D4_TerminalTypePartitioner.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-mapreduce-client-core\2.7.7\hadoop-mapreduce-client-core-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\D6_FileType.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\D6_FileType.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\D7_PVPartitioner.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\D7_PVPartitioner.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\D7_PVPartitioner.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-mapreduce-client-core\2.7.7\hadoop-mapreduce-client-core-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\Test_Submit_AreaTypePartitioner.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\Test_Submit_AreaTypePartitioner.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\Test_Submit_AreaTypePartitioner.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-mapreduce-client-core\2.7.7\hadoop-mapreduce-client-core-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\Test_tmp_FilePartitioner.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\Test_tmp_FilePartitioner.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\Test_tmp_FilePartitioner.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-mapreduce-client-core\2.7.7\hadoop-mapreduce-client-core-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D1_Get_detail_of_one_advertisement.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D1_Get_detail_of_one_advertisement.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D1_Get_detail_of_one_advertisement.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-mapreduce-client-core\2.7.7\hadoop-mapreduce-client-core-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_01_SumGroupByMRJobNew.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_01_SumGroupByMRJobNew.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_01_SumGroupByMRJobNew.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-mapreduce-client-core\2.7.7\hadoop-mapreduce-client-core-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_02_SumGroupByCombinerMRJobNew.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_02_SumGroupByCombinerMRJobNew.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_02_SumGroupByCombinerMRJobNew.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-mapreduce-client-core\2.7.7\hadoop-mapreduce-client-core-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D3_OrderByDescMRJobNew.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D3_OrderByDescMRJobNew.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D3_OrderByDescMRJobNew.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-mapreduce-client-core\2.7.7\hadoop-mapreduce-client-core-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D4_CaseWhenSumGroupByMRJobNew.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D4_CaseWhenSumGroupByMRJobNew.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D4_CaseWhenSumGroupByMRJobNew.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-mapreduce-client-core\2.7.7\hadoop-mapreduce-client-core-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D5_ReduceSideJoinMRJobNew.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D5_ReduceSideJoinMRJobNew.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D5_ReduceSideJoinMRJobNew.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-mapreduce-client-core\2.7.7\hadoop-mapreduce-client-core-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D6_MapSideJoinMRJobNew.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D6_MapSideJoinMRJobNew.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D6_MapSideJoinMRJobNew.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-mapreduce-client-core\2.7.7\hadoop-mapreduce-client-core-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D7_SecondSortMRJobNew.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D7_SecondSortMRJobNew.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D7_SecondSortMRJobNew.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-mapreduce-client-core\2.7.7\hadoop-mapreduce-client-core-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\Test_Submit_SelectUVByAreaAndDate.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\Test_Submit_SelectUVByAreaAndDate.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\Test_Submit_SelectUVByAreaAndDate.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-mapreduce-client-core\2.7.7\hadoop-mapreduce-client-core-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\Test_tmp_ByAreaDateMRJob.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\Test_tmp_ByAreaDateMRJob.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\Test_tmp_ByAreaDateMRJob.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-mapreduce-client-core\2.7.7\hadoop-mapreduce-client-core-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\WordCountMRJob.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\WordCountMRJob.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-common\2.7.7\hadoop-common-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\WordCountMRJob.java -> C:\Users\nxf34947\.m2\repository\org\apache\hadoop\hadoop-mapreduce-client-core\2.7.7\hadoop-mapreduce-client-core-2.7.7.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\udf\AgePartitionFunction.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\udf\AgePartitionFunction.java -> C:\Users\nxf34947\.m2\repository\org\apache\hive\hive-exec\1.2.2\hive-exec-1.2.2.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\CheckConfig_Client.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\CheckConfig_Client.java -> C:\Users\nxf34947\.m2\repository\org\apache\zookeeper\zookeeper\3.4.6\zookeeper-3.4.6.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\CheckConfig_Server.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\CheckConfig_Server.java -> C:\Users\nxf34947\.m2\repository\org\apache\zookeeper\zookeeper\3.4.6\zookeeper-3.4.6.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\DistributedClient.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\DistributedClient.java -> C:\Users\nxf34947\.m2\repository\org\apache\zookeeper\zookeeper\3.4.6\zookeeper-3.4.6.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\DistributedServer.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\DistributedServer.java -> C:\Users\nxf34947\.m2\repository\org\apache\zookeeper\zookeeper\3.4.6\zookeeper-3.4.6.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\ZookeeperClient.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\ZookeeperClient.java -> C:\Users\nxf34947\.m2\repository\org\apache\zookeeper\zookeeper\3.4.6\zookeeper-3.4.6.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\Java_base\java_test_basic_DaStr.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\Java_base\JavaTest_set.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\Java_base\PackageTest.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\arrayPairSum_561.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\canPlaceFlowers_605.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\containsDuplicate_217.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\containsDuplicate_219.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\fib_509.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\findDisappearedNumbers_448.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\findMaxAverage_643.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\findMaxConsecutiveOnes_485.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\findPairs_532.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\findUnsortedSubarray_581.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\longestCommonPrefix_14.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\majorityElement_169.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\matrixReshape_566.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\maxProfit_122.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\maxSubArray_53.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\mergeSortArray_88.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\MissingNumber_268.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\moveZeroes_283.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\plusOne_66.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\RemoveDuplicates_26.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\RotateArray_189.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\searchInsert_35.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\SumTwoNum_1.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\thirdMax_414.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\TwoSum_167.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\YHTriangle_118.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\YHTriangle_119.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\DemoScala.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\DemoScala.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\HelloWorld.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\HelloWorld.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\PointDemo.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\PointDemo.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-core_2.11\2.4.0\spark-core_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-core_2.11\2.4.0\spark-core_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-core_2.11\2.4.0\spark-core_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D4_Top3UserSawmoive.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D4_Top3UserSawmoive.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-core_2.11\2.4.0\spark-core_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D4_Top3UserSawmoive.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\ApacheAccessLog.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\ApacheAccessLog.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D1_LogAnalysisSQL_SumContent.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D1_LogAnalysisSQL_SumContent.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-catalyst_2.11\2.4.0\spark-catalyst_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D1_LogAnalysisSQL_SumContent.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-sql_2.11\2.4.0\spark-sql_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D1_LogAnalysisSQL_SumContent.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D1_LogAnalysisSQL_SumContent.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-reflect\2.11.12\scala-reflect-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D2_LogAnalysisSQL_ReCodeNum.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D2_LogAnalysisSQL_ReCodeNum.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-catalyst_2.11\2.4.0\spark-catalyst_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D2_LogAnalysisSQL_ReCodeNum.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-sql_2.11\2.4.0\spark-sql_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D2_LogAnalysisSQL_ReCodeNum.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D2_LogAnalysisSQL_ReCodeNum.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-reflect\2.11.12\scala-reflect-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D3_LogAnalysisSQL_ipAddress.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D3_LogAnalysisSQL_ipAddress.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-catalyst_2.11\2.4.0\spark-catalyst_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D3_LogAnalysisSQL_ipAddress.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-sql_2.11\2.4.0\spark-sql_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D3_LogAnalysisSQL_ipAddress.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D3_LogAnalysisSQL_ipAddress.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-reflect\2.11.12\scala-reflect-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D4_LogAnalysisSQL_TopVisitor.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D4_LogAnalysisSQL_TopVisitor.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-catalyst_2.11\2.4.0\spark-catalyst_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D4_LogAnalysisSQL_TopVisitor.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-sql_2.11\2.4.0\spark-sql_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D4_LogAnalysisSQL_TopVisitor.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D4_LogAnalysisSQL_TopVisitor.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-reflect\2.11.12\scala-reflect-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D5_LogAnalysisSQL_NumVistorPerIP.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D5_LogAnalysisSQL_NumVistorPerIP.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-catalyst_2.11\2.4.0\spark-catalyst_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D5_LogAnalysisSQL_NumVistorPerIP.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-sql_2.11\2.4.0\spark-sql_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D5_LogAnalysisSQL_NumVistorPerIP.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D5_LogAnalysisSQL_NumVistorPerIP.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-reflect\2.11.12\scala-reflect-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\LogAnalyzerSQL.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\LogAnalyzerSQL.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-catalyst_2.11\2.4.0\spark-catalyst_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\LogAnalyzerSQL.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-sql_2.11\2.4.0\spark-sql_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\LogAnalyzerSQL.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\LogAnalyzerSQL.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-reflect\2.11.12\scala-reflect-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D1_UserBehaviorSocketEventProducer.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D1_UserBehaviorSocketEventProducer.scala -> C:\Users\nxf34947\.m2\repository\com\alibaba\fastjson\1.2.14\fastjson-1.2.14.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D1_UserBehaviorSocketEventProducer.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D2_UserBehaviorSocketAnalytics.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D2_UserBehaviorSocketAnalytics.scala -> C:\Users\nxf34947\.m2\repository\com\alibaba\fastjson\1.2.14\fastjson-1.2.14.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D2_UserBehaviorSocketAnalytics.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-core_2.11\2.4.0\spark-core_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D2_UserBehaviorSocketAnalytics.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-streaming_2.11\2.4.0\spark-streaming_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D2_UserBehaviorSocketAnalytics.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics.scala -> C:\Users\nxf34947\.m2\repository\com\alibaba\fastjson\1.2.14\fastjson-1.2.14.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-core_2.11\2.4.0\spark-core_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-streaming_2.11\2.4.0\spark-streaming_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D4_KafkaEventProducer.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D4_KafkaEventProducer.scala -> C:\Users\nxf34947\.m2\repository\com\alibaba\fastjson\1.2.14\fastjson-1.2.14.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D4_KafkaEventProducer.scala -> C:\Users\nxf34947\.m2\repository\org\apache\kafka\kafka_2.11\0.8.2.1\kafka_2.11-0.8.2.1.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D4_KafkaEventProducer.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics.scala -> C:\Users\nxf34947\.m2\repository\com\alibaba\fastjson\1.2.14\fastjson-1.2.14.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics.scala -> C:\Users\nxf34947\.m2\repository\org\apache\kafka\kafka_2.11\0.8.2.1\kafka_2.11-0.8.2.1.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-core_2.11\2.4.0\spark-core_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-streaming-kafka-0-8_2.11\2.4.0\spark-streaming-kafka-0-8_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-streaming_2.11\2.4.0\spark-streaming_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult.scala -> C:\Users\nxf34947\.m2\repository\com\alibaba\fastjson\1.2.14\fastjson-1.2.14.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-core_2.11\2.4.0\spark-core_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-streaming_2.11\2.4.0\spark-streaming_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> C:\Users\nxf34947\.m2\repository\com\alibaba\fastjson\1.2.14\fastjson-1.2.14.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> C:\Users\nxf34947\.m2\repository\org\apache\kafka\kafka_2.11\0.8.2.1\kafka_2.11-0.8.2.1.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-core_2.11\2.4.0\spark-core_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-streaming-kafka-0-8_2.11\2.4.0\spark-streaming-kafka-0-8_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-streaming_2.11\2.4.0\spark-streaming_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\DBConnectionPool.java -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\JDBCInsert.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\JDBCInsert.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\util\KafkaProperties.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\util\KafkaProperties.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkTest.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkTest.scala -> C:\Users\nxf34947\.m2\repository\org\apache\spark\spark-core_2.11\2.4.0\spark-core_2.11-2.4.0.jar
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkTest.scala -> C:\Users\nxf34947\.m2\repository\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+source dependencies:
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\CreateTable.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\CreateTable.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\CreateTable.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\HBaseConfigUtil.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\DeleteRecordsFromTable.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\DeleteRecordsFromTable.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\DeleteRecordsFromTable.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\HBaseConfigUtil.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\DeleteTable.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\DeleteTable.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\DeleteTable.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\HBaseConfigUtil.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\FilterTable.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\FilterTable.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\FilterTable.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\HBaseConfigUtil.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\FilterTableZuoYe.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\FilterTableZuoYe.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\FilterTableZuoYe.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\HBaseConfigUtil.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\HBaseConfigUtil.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\HBaseConfigUtil.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\InsertIntoTable.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\HBaseConfigUtil.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\InsertIntoTable.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\InsertIntoTable.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\ListTables.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\HBaseConfigUtil.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\ListTables.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\ListTables.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\ReadTable.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\HBaseConfigUtil.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\ReadTable.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\ReadTable.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\ScanTable.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\HBaseConfigUtil.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\ScanTable.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\ScanTable.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\CreateTable.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\CreateTable.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\CreateTable.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseConfigUtil.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\Driver.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\Driver.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\Driver.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFS.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\Driver.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFSZuoYe.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\Driver.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\ImportFromHDFS.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\Driver.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D1_Get_detail_of_one_advertisement.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\Driver.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_01_SumGroupByMRJobNew.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\Driver.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_02_SumGroupByCombinerMRJobNew.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\Driver.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D3_OrderByDescMRJobNew.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\Driver.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D4_CaseWhenSumGroupByMRJobNew.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\Driver.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D5_ReduceSideJoinMRJobNew.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\Driver.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D6_MapSideJoinMRJobNew.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\Driver.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D7_SecondSortMRJobNew.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\Driver.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\Test_Submit_SelectUVByAreaAndDate.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseConfigUtil.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseConfigUtil.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFS.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFS.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFSZuoYe.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFS.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFSZuoYe.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFSZuoYe.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\ImportFromHDFS.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\ImportFromHDFS.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\hdfs\HDFSClient.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\hdfs\HDFSClient.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D2_AdMetricWritable.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D2_AdMetricWritable.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D3_PVKeyWritable.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D3_PVKeyWritable.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D4_TerminalTypeReportWritable.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D4_TerminalTypeReportWritable.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D5_ReduceSideJoinWritable.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D5_ReduceSideJoinWritable.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D7_ComplexKeyWritable.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D7_ComplexKeyWritable.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D7_PVGroupComparator.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D7_ComplexKeyWritable.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D7_PVGroupComparator.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D7_PVGroupComparator.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\Test_tmp_ByAreaDate_Writable.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\Test_tmp_ByAreaDate_Writable.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\kafka\ConsumerClient.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\kafka\ConsumerClient.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\kafka\ProducerClient.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\kafka\ProducerClient.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\D4_TerminalTypePartitioner.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D2_AdMetricWritable.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\D4_TerminalTypePartitioner.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\D4_TerminalTypePartitioner.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\D6_FileType.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\D6_FileType.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\D7_PVPartitioner.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D7_ComplexKeyWritable.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\D7_PVPartitioner.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\D7_PVPartitioner.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\Test_Submit_AreaTypePartitioner.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\Test_Submit_AreaTypePartitioner.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\Test_tmp_FilePartitioner.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\Test_tmp_ByAreaDate_Writable.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\Test_tmp_FilePartitioner.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\Test_tmp_FilePartitioner.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D1_Get_detail_of_one_advertisement.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D1_Get_detail_of_one_advertisement.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_01_SumGroupByMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D2_AdMetricWritable.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_01_SumGroupByMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_01_SumGroupByMRJobNew.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_02_SumGroupByCombinerMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D2_AdMetricWritable.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_02_SumGroupByCombinerMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_02_SumGroupByCombinerMRJobNew.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D3_OrderByDescMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D2_AdMetricWritable.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D3_OrderByDescMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D3_PVKeyWritable.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D3_OrderByDescMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D3_OrderByDescMRJobNew.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D4_CaseWhenSumGroupByMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D2_AdMetricWritable.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D4_CaseWhenSumGroupByMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D4_TerminalTypeReportWritable.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D4_CaseWhenSumGroupByMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\D4_TerminalTypePartitioner.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D4_CaseWhenSumGroupByMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D4_CaseWhenSumGroupByMRJobNew.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D5_ReduceSideJoinMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D5_ReduceSideJoinWritable.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D5_ReduceSideJoinMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D5_ReduceSideJoinMRJobNew.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D6_MapSideJoinMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\D6_FileType.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D6_MapSideJoinMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D6_MapSideJoinMRJobNew.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D7_SecondSortMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D7_ComplexKeyWritable.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D7_SecondSortMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D7_PVGroupComparator.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D7_SecondSortMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\D7_PVPartitioner.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D7_SecondSortMRJobNew.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D7_SecondSortMRJobNew.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\Test_Submit_SelectUVByAreaAndDate.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\Test_Submit_AreaTypePartitioner.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\Test_Submit_SelectUVByAreaAndDate.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\Test_Submit_SelectUVByAreaAndDate.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\Test_tmp_ByAreaDateMRJob.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\Test_tmp_ByAreaDate_Writable.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\Test_tmp_ByAreaDateMRJob.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\Test_tmp_FilePartitioner.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\Test_tmp_ByAreaDateMRJob.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\Test_tmp_ByAreaDateMRJob.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\WordCountMRJob.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\WordCountMRJob.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\udf\AgePartitionFunction.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\udf\AgePartitionFunction.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\CheckConfig_Client.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\CheckConfig_Client.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\CheckConfig_Server.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\CheckConfig_Server.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\DistributedClient.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\DistributedClient.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\DistributedServer.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\DistributedServer.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\ZookeeperClient.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\ZookeeperClient.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\Java_base\java_test_basic_DaStr.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\Java_base\java_test_basic_DaStr.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\Java_base\JavaTest_set.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\Java_base\JavaTest_set.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\Java_base\PackageTest.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\Java_base\PackageTest.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\arrayPairSum_561.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\arrayPairSum_561.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\canPlaceFlowers_605.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\canPlaceFlowers_605.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\containsDuplicate_217.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\containsDuplicate_217.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\containsDuplicate_219.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\containsDuplicate_219.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\fib_509.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\fib_509.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\findDisappearedNumbers_448.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\findDisappearedNumbers_448.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\findMaxAverage_643.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\findMaxAverage_643.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\findMaxConsecutiveOnes_485.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\findMaxConsecutiveOnes_485.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\findPairs_532.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\findPairs_532.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\findUnsortedSubarray_581.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\findUnsortedSubarray_581.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\longestCommonPrefix_14.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\longestCommonPrefix_14.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\majorityElement_169.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\majorityElement_169.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\matrixReshape_566.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\matrixReshape_566.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\maxProfit_122.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\maxProfit_122.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\maxSubArray_53.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\maxSubArray_53.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\mergeSortArray_88.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\mergeSortArray_88.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\MissingNumber_268.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\MissingNumber_268.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\moveZeroes_283.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\moveZeroes_283.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\plusOne_66.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\plusOne_66.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\RemoveDuplicates_26.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\RemoveDuplicates_26.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\RotateArray_189.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\RotateArray_189.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\searchInsert_35.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\searchInsert_35.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\SumTwoNum_1.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\SumTwoNum_1.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\thirdMax_414.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\thirdMax_414.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\TwoSum_167.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\TwoSum_167.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\YHTriangle_118.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\YHTriangle_118.java
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\YHTriangle_119.java -> C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\YHTriangle_119.java
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D1_LogAnalysisSQL_SumContent.scala -> C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\ApacheAccessLog.scala
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D2_LogAnalysisSQL_ReCodeNum.scala -> C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\ApacheAccessLog.scala
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D3_LogAnalysisSQL_ipAddress.scala -> C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\ApacheAccessLog.scala
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D4_LogAnalysisSQL_TopVisitor.scala -> C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\ApacheAccessLog.scala
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D5_LogAnalysisSQL_NumVistorPerIP.scala -> C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\ApacheAccessLog.scala
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\LogAnalyzerSQL.scala -> C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\ApacheAccessLog.scala
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D4_KafkaEventProducer.scala -> C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\util\KafkaProperties.scala
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult.scala -> C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\DBConnectionPool.java
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\DBConnectionPool.java -> C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\DBConnectionPool.java
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\JDBCInsert.scala -> C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\DBConnectionPool.java
+external dependencies:
+class names:
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\CreateTable.java -> bigdata.HBase.example.CreateTable
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\DeleteRecordsFromTable.java -> bigdata.HBase.example.DeleteRecordsFromTable
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\DeleteTable.java -> bigdata.HBase.example.DeleteTable
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\FilterTable.java -> bigdata.HBase.example.FilterTable
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\FilterTableZuoYe.java -> bigdata.HBase.example.FilterTableZuoYe
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\HBaseConfigUtil.java -> bigdata.HBase.example.HBaseConfigUtil
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\InsertIntoTable.java -> bigdata.HBase.example.InsertIntoTable
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\ListTables.java -> bigdata.HBase.example.ListTables
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\ReadTable.java -> bigdata.HBase.example.ReadTable
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\example\ScanTable.java -> bigdata.HBase.example.ScanTable
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\CreateTable.java -> bigdata.HBase.MapReduce.CreateTable
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\Driver.java -> bigdata.HBase.MapReduce.Driver
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseConfigUtil.java -> bigdata.HBase.MapReduce.HBaseConfigUtil
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFS.java -> bigdata.HBase.MapReduce.HBaseToHDFS
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFS.java -> bigdata.HBase.MapReduce.HBaseToHDFS$HBaseToHDFSMapper
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFS.java -> bigdata.HBase.MapReduce.HBaseToHDFS$HBaseToHDFSReducer
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFSZuoYe.java -> bigdata.HBase.MapReduce.HBaseToHDFSZuoYe
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFSZuoYe.java -> bigdata.HBase.MapReduce.HBaseToHDFSZuoYe$HBaseToHDFSMapper
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\HBaseToHDFSZuoYe.java -> bigdata.HBase.MapReduce.HBaseToHDFSZuoYe$HBaseToHDFSMapper$HBaseToHDFSReducer
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\ImportFromHDFS.java -> bigdata.HBase.MapReduce.ImportFromHDFS
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\ImportFromHDFS.java -> bigdata.HBase.MapReduce.ImportFromHDFS$HDFSToHBaseMapper
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\HBase\MapReduce\ImportFromHDFS.java -> bigdata.HBase.MapReduce.ImportFromHDFS$HDFSToHBaseReducer
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\hdfs\HDFSClient.java -> bigdata.hdfs.HDFSClient
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D2_AdMetricWritable.java -> bigdata.io.D2_AdMetricWritable
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D3_PVKeyWritable.java -> bigdata.io.D3_PVKeyWritable
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D4_TerminalTypeReportWritable.java -> bigdata.io.D4_TerminalTypeReportWritable
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D5_ReduceSideJoinWritable.java -> bigdata.io.D5_ReduceSideJoinWritable
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D7_ComplexKeyWritable.java -> bigdata.io.D7_ComplexKeyWritable
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\D7_PVGroupComparator.java -> bigdata.io.D7_PVGroupComparator
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\io\Test_tmp_ByAreaDate_Writable.java -> bigdata.io.Test_tmp_ByAreaDate_Writable
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\kafka\ConsumerClient.java -> bigdata.kafka.ConsumerClient
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\kafka\ProducerClient.java -> bigdata.kafka.ProducerClient
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\kafka\ProducerClient.java -> bigdata.kafka.ProducerClient$1
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\D4_TerminalTypePartitioner.java -> bigdata.lib.D4_TerminalTypePartitioner
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\D6_FileType.java -> bigdata.lib.D6_FileType
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\D7_PVPartitioner.java -> bigdata.lib.D7_PVPartitioner
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\Test_Submit_AreaTypePartitioner.java -> bigdata.lib.Test_Submit_AreaTypePartitioner
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\lib\Test_tmp_FilePartitioner.java -> bigdata.lib.Test_tmp_FilePartitioner
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D1_Get_detail_of_one_advertisement.java -> bigdata.mapreduce.log_analysis.D1_Get_detail_of_one_advertisement
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D1_Get_detail_of_one_advertisement.java -> bigdata.mapreduce.log_analysis.D1_Get_detail_of_one_advertisement$SelectWhereMapper
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_01_SumGroupByMRJobNew.java -> bigdata.mapreduce.log_analysis.D2_01_SumGroupByMRJobNew
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_01_SumGroupByMRJobNew.java -> bigdata.mapreduce.log_analysis.D2_01_SumGroupByMRJobNew$SumGroupByMapper
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_01_SumGroupByMRJobNew.java -> bigdata.mapreduce.log_analysis.D2_01_SumGroupByMRJobNew$SumGroupByReducer
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_02_SumGroupByCombinerMRJobNew.java -> bigdata.mapreduce.log_analysis.D2_02_SumGroupByCombinerMRJobNew
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_02_SumGroupByCombinerMRJobNew.java -> bigdata.mapreduce.log_analysis.D2_02_SumGroupByCombinerMRJobNew$SumGroupByCombiner
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_02_SumGroupByCombinerMRJobNew.java -> bigdata.mapreduce.log_analysis.D2_02_SumGroupByCombinerMRJobNew$SumGroupByMapper
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D2_02_SumGroupByCombinerMRJobNew.java -> bigdata.mapreduce.log_analysis.D2_02_SumGroupByCombinerMRJobNew$SumGroupByReducer
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D3_OrderByDescMRJobNew.java -> bigdata.mapreduce.log_analysis.D3_OrderByDescMRJobNew
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D3_OrderByDescMRJobNew.java -> bigdata.mapreduce.log_analysis.D3_OrderByDescMRJobNew$OrderByDescMapper
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D3_OrderByDescMRJobNew.java -> bigdata.mapreduce.log_analysis.D3_OrderByDescMRJobNew$OrderByDescReducer
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D4_CaseWhenSumGroupByMRJobNew.java -> bigdata.mapreduce.log_analysis.D4_CaseWhenSumGroupByMRJobNew
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D4_CaseWhenSumGroupByMRJobNew.java -> bigdata.mapreduce.log_analysis.D4_CaseWhenSumGroupByMRJobNew$CaseWhenSumGroupByMapper
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D4_CaseWhenSumGroupByMRJobNew.java -> bigdata.mapreduce.log_analysis.D4_CaseWhenSumGroupByMRJobNew$CaseWhenSumGroupByReducer
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D5_ReduceSideJoinMRJobNew.java -> bigdata.mapreduce.log_analysis.D5_ReduceSideJoinMRJobNew
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D5_ReduceSideJoinMRJobNew.java -> bigdata.mapreduce.log_analysis.D5_ReduceSideJoinMRJobNew$ReduceSideJoinMapper
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D5_ReduceSideJoinMRJobNew.java -> bigdata.mapreduce.log_analysis.D5_ReduceSideJoinMRJobNew$ReduceSideJoinReducer
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D6_MapSideJoinMRJobNew.java -> bigdata.mapreduce.log_analysis.D6_MapSideJoinMRJobNew
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D6_MapSideJoinMRJobNew.java -> bigdata.mapreduce.log_analysis.D6_MapSideJoinMRJobNew$MapSideJoinMapper
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D7_SecondSortMRJobNew.java -> bigdata.mapreduce.log_analysis.D7_SecondSortMRJobNew
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D7_SecondSortMRJobNew.java -> bigdata.mapreduce.log_analysis.D7_SecondSortMRJobNew$SecondSortMapper
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\D7_SecondSortMRJobNew.java -> bigdata.mapreduce.log_analysis.D7_SecondSortMRJobNew$SecondSortReducer
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\Test_Submit_SelectUVByAreaAndDate.java -> bigdata.mapreduce.log_analysis.Test_Submit_SelectUVByAreaAndDate
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\Test_Submit_SelectUVByAreaAndDate.java -> bigdata.mapreduce.log_analysis.Test_Submit_SelectUVByAreaAndDate$MyMapper
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\Test_Submit_SelectUVByAreaAndDate.java -> bigdata.mapreduce.log_analysis.Test_Submit_SelectUVByAreaAndDate$MyReducer
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\Test_tmp_ByAreaDateMRJob.java -> bigdata.mapreduce.log_analysis.Test_tmp_ByAreaDateMRJob
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\Test_tmp_ByAreaDateMRJob.java -> bigdata.mapreduce.log_analysis.Test_tmp_ByAreaDateMRJob$TestByAreaDateMRJobMapper
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\log_analysis\Test_tmp_ByAreaDateMRJob.java -> bigdata.mapreduce.log_analysis.Test_tmp_ByAreaDateMRJob$TestByAreaDateMRJobReducer
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\WordCountMRJob.java -> bigdata.mapreduce.WordCountMRJob
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\WordCountMRJob.java -> bigdata.mapreduce.WordCountMRJob$WordCountMapper
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\mapreduce\WordCountMRJob.java -> bigdata.mapreduce.WordCountMRJob$WordCountReducer
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\udf\AgePartitionFunction.java -> bigdata.udf.AgePartitionFunction
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\CheckConfig_Client.java -> bigdata.zookeeper.CheckConfig_Client
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\CheckConfig_Client.java -> bigdata.zookeeper.CheckConfig_Client$1
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\CheckConfig_Server.java -> bigdata.zookeeper.CheckConfig_Server
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\DistributedClient.java -> bigdata.zookeeper.DistributedClient
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\DistributedClient.java -> bigdata.zookeeper.DistributedClient$1
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\DistributedServer.java -> bigdata.zookeeper.DistributedServer
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\DistributedServer.java -> bigdata.zookeeper.DistributedServer$1
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\ZookeeperClient.java -> bigdata.zookeeper.ZookeeperClient
+   C:\WORK\BigData\workspace\bigdata\src\main\java\bigdata\zookeeper\ZookeeperClient.java -> bigdata.zookeeper.ZookeeperClient$1
+   C:\WORK\BigData\workspace\bigdata\src\main\java\Java_base\java_test_basic_DaStr.java -> Java_base.java_test_basic_DaStr
+   C:\WORK\BigData\workspace\bigdata\src\main\java\Java_base\JavaTest_set.java -> Java_base.JavaTest_set
+   C:\WORK\BigData\workspace\bigdata\src\main\java\Java_base\PackageTest.java -> Java_base.PackageTest
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\arrayPairSum_561.java -> leetcode.arrayPairSum_561
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\canPlaceFlowers_605.java -> leetcode.canPlaceFlowers_605
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\containsDuplicate_217.java -> leetcode.containsDuplicate_217
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\containsDuplicate_219.java -> leetcode.containsDuplicate_219
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\fib_509.java -> leetcode.fib_509
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\findDisappearedNumbers_448.java -> leetcode.findDisappearedNumbers_448
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\findMaxAverage_643.java -> leetcode.findMaxAverage_643
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\findMaxConsecutiveOnes_485.java -> leetcode.findMaxConsecutiveOnes_485
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\findPairs_532.java -> leetcode.findPairs_532
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\findUnsortedSubarray_581.java -> leetcode.findUnsortedSubarray_581
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\longestCommonPrefix_14.java -> leetcode.longestCommonPrefix_14
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\majorityElement_169.java -> leetcode.majorityElement_169
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\matrixReshape_566.java -> leetcode.matrixReshape_566
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\maxProfit_122.java -> leetcode.maxProfit_122
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\maxSubArray_53.java -> leetcode.maxSubArray_53
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\mergeSortArray_88.java -> leetcode.mergeSortArray_88
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\MissingNumber_268.java -> leetcode.MissingNumber_268
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\moveZeroes_283.java -> leetcode.moveZeroes_283
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\plusOne_66.java -> leetcode.plusOne_66
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\RemoveDuplicates_26.java -> leetcode.RemoveDuplicates_26
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\RotateArray_189.java -> leetcode.RotateArray_189
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\searchInsert_35.java -> leetcode.searchInsert_35
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\SumTwoNum_1.java -> leetcode.SumTwoNum_1
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\thirdMax_414.java -> leetcode.thirdMax_414
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\TwoSum_167.java -> leetcode.TwoSum_167
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\YHTriangle_118.java -> leetcode.YHTriangle_118
+   C:\WORK\BigData\workspace\bigdata\src\main\java\leetcode\YHTriangle_119.java -> leetcode.YHTriangle_119
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\DemoScala.scala -> org.sparkcourse.scalacase.DemoScala
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\DemoScala.scala -> org.sparkcourse.scalacase.DemoScala$
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\DemoScala.scala -> org.sparkcourse.scalacase.DemoScala$$anonfun$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\DemoScala.scala -> org.sparkcourse.scalacase.DemoScala$$anonfun$2
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\DemoScala.scala -> org.sparkcourse.scalacase.DemoScala$$anonfun$collectionAndAPI$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\DemoScala.scala -> org.sparkcourse.scalacase.DemoScala$$anonfun$collectionAndAPI$2
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\DemoScala.scala -> org.sparkcourse.scalacase.DemoScala$$anonfun$collectionAndAPI$3
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\DemoScala.scala -> org.sparkcourse.scalacase.DemoScala$$anonfun$collectionAndAPI$4
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\DemoScala.scala -> org.sparkcourse.scalacase.DemoScala$$anonfun$collectionAndAPI$5
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\DemoScala.scala -> org.sparkcourse.scalacase.DemoScala$$anonfun$collectionAndAPI$6
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\DemoScala.scala -> org.sparkcourse.scalacase.DemoScala$$anonfun$collectionAndAPI$7
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\DemoScala.scala -> org.sparkcourse.scalacase.DemoScala$$anonfun$controlCase$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\HelloWorld.scala -> org.sparkcourse.scalacase.HelloWorld
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\HelloWorld.scala -> org.sparkcourse.scalacase.HelloWorld$
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\PointDemo.scala -> org.sparkcourse.scalacase.Move
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\PointDemo.scala -> org.sparkcourse.scalacase.Point
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\PointDemo.scala -> org.sparkcourse.scalacase.PointDemo
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\PointDemo.scala -> org.sparkcourse.scalacase.PointDemo$
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\PointDemo.scala -> org.sparkcourse.scalacase.PointWithTrait
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\scalacase\PointDemo.scala -> org.sparkcourse.scalacase.PointWithTrait$
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> org.sparkcourse.SparkCore_movie.D1_Distribution_SawSixtheenCandles
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> org.sparkcourse.SparkCore_movie.D1_Distribution_SawSixtheenCandles$
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> org.sparkcourse.SparkCore_movie.D1_Distribution_SawSixtheenCandles$$anonfun$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> org.sparkcourse.SparkCore_movie.D1_Distribution_SawSixtheenCandles$$anonfun$10
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> org.sparkcourse.SparkCore_movie.D1_Distribution_SawSixtheenCandles$$anonfun$11
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> org.sparkcourse.SparkCore_movie.D1_Distribution_SawSixtheenCandles$$anonfun$12
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> org.sparkcourse.SparkCore_movie.D1_Distribution_SawSixtheenCandles$$anonfun$13
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> org.sparkcourse.SparkCore_movie.D1_Distribution_SawSixtheenCandles$$anonfun$14
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> org.sparkcourse.SparkCore_movie.D1_Distribution_SawSixtheenCandles$$anonfun$2
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> org.sparkcourse.SparkCore_movie.D1_Distribution_SawSixtheenCandles$$anonfun$3
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> org.sparkcourse.SparkCore_movie.D1_Distribution_SawSixtheenCandles$$anonfun$4
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> org.sparkcourse.SparkCore_movie.D1_Distribution_SawSixtheenCandles$$anonfun$5
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> org.sparkcourse.SparkCore_movie.D1_Distribution_SawSixtheenCandles$$anonfun$6
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> org.sparkcourse.SparkCore_movie.D1_Distribution_SawSixtheenCandles$$anonfun$7
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> org.sparkcourse.SparkCore_movie.D1_Distribution_SawSixtheenCandles$$anonfun$8
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> org.sparkcourse.SparkCore_movie.D1_Distribution_SawSixtheenCandles$$anonfun$9
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> org.sparkcourse.SparkCore_movie.D1_Distribution_SawSixtheenCandles$$anonfun$main$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> org.sparkcourse.SparkCore_movie.D1_Distribution_SawSixtheenCandles$$anonfun$main$2
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D1_Distribution_SawSixtheenCandles.scala -> org.sparkcourse.SparkCore_movie.D1_Distribution_SawSixtheenCandles$$anonfun$main$3
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> org.sparkcourse.SparkCore_movie.D2_Top10PopularMovie_YoungMan
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> org.sparkcourse.SparkCore_movie.D2_Top10PopularMovie_YoungMan$
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> org.sparkcourse.SparkCore_movie.D2_Top10PopularMovie_YoungMan$$anonfun$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> org.sparkcourse.SparkCore_movie.D2_Top10PopularMovie_YoungMan$$anonfun$10
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> org.sparkcourse.SparkCore_movie.D2_Top10PopularMovie_YoungMan$$anonfun$11
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> org.sparkcourse.SparkCore_movie.D2_Top10PopularMovie_YoungMan$$anonfun$12
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> org.sparkcourse.SparkCore_movie.D2_Top10PopularMovie_YoungMan$$anonfun$13
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> org.sparkcourse.SparkCore_movie.D2_Top10PopularMovie_YoungMan$$anonfun$14
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> org.sparkcourse.SparkCore_movie.D2_Top10PopularMovie_YoungMan$$anonfun$15
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> org.sparkcourse.SparkCore_movie.D2_Top10PopularMovie_YoungMan$$anonfun$2
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> org.sparkcourse.SparkCore_movie.D2_Top10PopularMovie_YoungMan$$anonfun$3
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> org.sparkcourse.SparkCore_movie.D2_Top10PopularMovie_YoungMan$$anonfun$4
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> org.sparkcourse.SparkCore_movie.D2_Top10PopularMovie_YoungMan$$anonfun$5
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> org.sparkcourse.SparkCore_movie.D2_Top10PopularMovie_YoungMan$$anonfun$6
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> org.sparkcourse.SparkCore_movie.D2_Top10PopularMovie_YoungMan$$anonfun$7
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> org.sparkcourse.SparkCore_movie.D2_Top10PopularMovie_YoungMan$$anonfun$8
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> org.sparkcourse.SparkCore_movie.D2_Top10PopularMovie_YoungMan$$anonfun$9
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> org.sparkcourse.SparkCore_movie.D2_Top10PopularMovie_YoungMan$$anonfun$main$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D2_Top10PopularMovie_YoungMan.scala -> org.sparkcourse.SparkCore_movie.D2_Top10PopularMovie_YoungMan$$anonfun$main$2
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> org.sparkcourse.SparkCore_movie.D3_Top3PopularMovie
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> org.sparkcourse.SparkCore_movie.D3_Top3PopularMovie$
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> org.sparkcourse.SparkCore_movie.D3_Top3PopularMovie$$anonfun$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> org.sparkcourse.SparkCore_movie.D3_Top3PopularMovie$$anonfun$10
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> org.sparkcourse.SparkCore_movie.D3_Top3PopularMovie$$anonfun$11
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> org.sparkcourse.SparkCore_movie.D3_Top3PopularMovie$$anonfun$2
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> org.sparkcourse.SparkCore_movie.D3_Top3PopularMovie$$anonfun$3
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> org.sparkcourse.SparkCore_movie.D3_Top3PopularMovie$$anonfun$4
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> org.sparkcourse.SparkCore_movie.D3_Top3PopularMovie$$anonfun$5
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> org.sparkcourse.SparkCore_movie.D3_Top3PopularMovie$$anonfun$6
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> org.sparkcourse.SparkCore_movie.D3_Top3PopularMovie$$anonfun$7
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> org.sparkcourse.SparkCore_movie.D3_Top3PopularMovie$$anonfun$8
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> org.sparkcourse.SparkCore_movie.D3_Top3PopularMovie$$anonfun$9
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> org.sparkcourse.SparkCore_movie.D3_Top3PopularMovie$$anonfun$main$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D3_Top3PopularMovie.scala -> org.sparkcourse.SparkCore_movie.D3_Top3PopularMovie$$anonfun$main$2
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D4_Top3UserSawmoive.scala -> org.sparkcourse.SparkCore_movie.D4_Top3UserSawmoive
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D4_Top3UserSawmoive.scala -> org.sparkcourse.SparkCore_movie.D4_Top3UserSawmoive$
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D4_Top3UserSawmoive.scala -> org.sparkcourse.SparkCore_movie.D4_Top3UserSawmoive$$anonfun$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D4_Top3UserSawmoive.scala -> org.sparkcourse.SparkCore_movie.D4_Top3UserSawmoive$$anonfun$2
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D4_Top3UserSawmoive.scala -> org.sparkcourse.SparkCore_movie.D4_Top3UserSawmoive$$anonfun$3
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D4_Top3UserSawmoive.scala -> org.sparkcourse.SparkCore_movie.D4_Top3UserSawmoive$$anonfun$4
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D4_Top3UserSawmoive.scala -> org.sparkcourse.SparkCore_movie.D4_Top3UserSawmoive$$anonfun$5
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkCore_movie\D4_Top3UserSawmoive.scala -> org.sparkcourse.SparkCore_movie.D4_Top3UserSawmoive$$anonfun$6
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\ApacheAccessLog.scala -> org.sparkcourse.SparkSQL_log.ApacheAccessLog
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\ApacheAccessLog.scala -> org.sparkcourse.SparkSQL_log.ApacheAccessLog$
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D1_LogAnalysisSQL_SumContent.scala -> org.sparkcourse.SparkSQL_log.D1_LogAnalysisSQL_SumContent
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D1_LogAnalysisSQL_SumContent.scala -> org.sparkcourse.SparkSQL_log.D1_LogAnalysisSQL_SumContent$
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D1_LogAnalysisSQL_SumContent.scala -> org.sparkcourse.SparkSQL_log.D1_LogAnalysisSQL_SumContent$$anonfun$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D1_LogAnalysisSQL_SumContent.scala -> org.sparkcourse.SparkSQL_log.D1_LogAnalysisSQL_SumContent$$typecreator4$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D2_LogAnalysisSQL_ReCodeNum.scala -> org.sparkcourse.SparkSQL_log.D2_LogAnalysisSQL_ReCodeNum
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D2_LogAnalysisSQL_ReCodeNum.scala -> org.sparkcourse.SparkSQL_log.D2_LogAnalysisSQL_ReCodeNum$
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D2_LogAnalysisSQL_ReCodeNum.scala -> org.sparkcourse.SparkSQL_log.D2_LogAnalysisSQL_ReCodeNum$$anonfun$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D2_LogAnalysisSQL_ReCodeNum.scala -> org.sparkcourse.SparkSQL_log.D2_LogAnalysisSQL_ReCodeNum$$anonfun$2
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D2_LogAnalysisSQL_ReCodeNum.scala -> org.sparkcourse.SparkSQL_log.D2_LogAnalysisSQL_ReCodeNum$$anonfun$main$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D2_LogAnalysisSQL_ReCodeNum.scala -> org.sparkcourse.SparkSQL_log.D2_LogAnalysisSQL_ReCodeNum$$typecreator4$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D2_LogAnalysisSQL_ReCodeNum.scala -> org.sparkcourse.SparkSQL_log.D2_LogAnalysisSQL_ReCodeNum$$typecreator5$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D3_LogAnalysisSQL_ipAddress.scala -> org.sparkcourse.SparkSQL_log.D3_LogAnalysisSQL_ipAddress
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D3_LogAnalysisSQL_ipAddress.scala -> org.sparkcourse.SparkSQL_log.D3_LogAnalysisSQL_ipAddress$
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D3_LogAnalysisSQL_ipAddress.scala -> org.sparkcourse.SparkSQL_log.D3_LogAnalysisSQL_ipAddress$$anonfun$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D3_LogAnalysisSQL_ipAddress.scala -> org.sparkcourse.SparkSQL_log.D3_LogAnalysisSQL_ipAddress$$anonfun$2
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D3_LogAnalysisSQL_ipAddress.scala -> org.sparkcourse.SparkSQL_log.D3_LogAnalysisSQL_ipAddress$$anonfun$main$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D3_LogAnalysisSQL_ipAddress.scala -> org.sparkcourse.SparkSQL_log.D3_LogAnalysisSQL_ipAddress$$typecreator4$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D4_LogAnalysisSQL_TopVisitor.scala -> org.sparkcourse.SparkSQL_log.D4_LogAnalysisSQL_TopVisitor
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D4_LogAnalysisSQL_TopVisitor.scala -> org.sparkcourse.SparkSQL_log.D4_LogAnalysisSQL_TopVisitor$
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D4_LogAnalysisSQL_TopVisitor.scala -> org.sparkcourse.SparkSQL_log.D4_LogAnalysisSQL_TopVisitor$$anonfun$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D4_LogAnalysisSQL_TopVisitor.scala -> org.sparkcourse.SparkSQL_log.D4_LogAnalysisSQL_TopVisitor$$anonfun$2
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D4_LogAnalysisSQL_TopVisitor.scala -> org.sparkcourse.SparkSQL_log.D4_LogAnalysisSQL_TopVisitor$$anonfun$main$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D4_LogAnalysisSQL_TopVisitor.scala -> org.sparkcourse.SparkSQL_log.D4_LogAnalysisSQL_TopVisitor$$typecreator4$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D4_LogAnalysisSQL_TopVisitor.scala -> org.sparkcourse.SparkSQL_log.D4_LogAnalysisSQL_TopVisitor$$typecreator5$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D5_LogAnalysisSQL_NumVistorPerIP.scala -> org.sparkcourse.SparkSQL_log.D5_LogAnalysisSQL_NumVistorPerIP
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D5_LogAnalysisSQL_NumVistorPerIP.scala -> org.sparkcourse.SparkSQL_log.D5_LogAnalysisSQL_NumVistorPerIP$
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D5_LogAnalysisSQL_NumVistorPerIP.scala -> org.sparkcourse.SparkSQL_log.D5_LogAnalysisSQL_NumVistorPerIP$$anonfun$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D5_LogAnalysisSQL_NumVistorPerIP.scala -> org.sparkcourse.SparkSQL_log.D5_LogAnalysisSQL_NumVistorPerIP$$anonfun$2
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D5_LogAnalysisSQL_NumVistorPerIP.scala -> org.sparkcourse.SparkSQL_log.D5_LogAnalysisSQL_NumVistorPerIP$$anonfun$main$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D5_LogAnalysisSQL_NumVistorPerIP.scala -> org.sparkcourse.SparkSQL_log.D5_LogAnalysisSQL_NumVistorPerIP$$typecreator4$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\D5_LogAnalysisSQL_NumVistorPerIP.scala -> org.sparkcourse.SparkSQL_log.D5_LogAnalysisSQL_NumVistorPerIP$$typecreator5$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\LogAnalyzerSQL.scala -> org.sparkcourse.SparkSQL_log.LogAnalyzerSQL
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\LogAnalyzerSQL.scala -> org.sparkcourse.SparkSQL_log.LogAnalyzerSQL$
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\LogAnalyzerSQL.scala -> org.sparkcourse.SparkSQL_log.LogAnalyzerSQL$$anonfun$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\LogAnalyzerSQL.scala -> org.sparkcourse.SparkSQL_log.LogAnalyzerSQL$$anonfun$2
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\LogAnalyzerSQL.scala -> org.sparkcourse.SparkSQL_log.LogAnalyzerSQL$$anonfun$main$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\LogAnalyzerSQL.scala -> org.sparkcourse.SparkSQL_log.LogAnalyzerSQL$$typecreator4$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkSQL_log\LogAnalyzerSQL.scala -> org.sparkcourse.SparkSQL_log.LogAnalyzerSQL$$typecreator5$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D1_UserBehaviorSocketEventProducer.scala -> org.sparkcourse.SparkStreaming_userbehavior.D1_UserBehaviorSocketEventProducer
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D1_UserBehaviorSocketEventProducer.scala -> org.sparkcourse.SparkStreaming_userbehavior.D1_UserBehaviorSocketEventProducer$
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D2_UserBehaviorSocketAnalytics.scala -> org.sparkcourse.SparkStreaming_userbehavior.D2_UserBehaviorSocketAnalytics
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D2_UserBehaviorSocketAnalytics.scala -> org.sparkcourse.SparkStreaming_userbehavior.D2_UserBehaviorSocketAnalytics$
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D2_UserBehaviorSocketAnalytics.scala -> org.sparkcourse.SparkStreaming_userbehavior.D2_UserBehaviorSocketAnalytics$$anonfun$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D2_UserBehaviorSocketAnalytics.scala -> org.sparkcourse.SparkStreaming_userbehavior.D2_UserBehaviorSocketAnalytics$$anonfun$2
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D2_UserBehaviorSocketAnalytics.scala -> org.sparkcourse.SparkStreaming_userbehavior.D2_UserBehaviorSocketAnalytics$$anonfun$3
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D2_UserBehaviorSocketAnalytics.scala -> org.sparkcourse.SparkStreaming_userbehavior.D2_UserBehaviorSocketAnalytics$$anonfun$4
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D2_UserBehaviorSocketAnalytics.scala -> org.sparkcourse.SparkStreaming_userbehavior.D2_UserBehaviorSocketAnalytics$$anonfun$4$$anonfun$apply$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics.scala -> org.sparkcourse.SparkStreaming_userbehavior.D3_SiteAnalytics
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics.scala -> org.sparkcourse.SparkStreaming_userbehavior.D3_SiteAnalytics$
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics.scala -> org.sparkcourse.SparkStreaming_userbehavior.D3_SiteAnalytics$$anonfun$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics.scala -> org.sparkcourse.SparkStreaming_userbehavior.D3_SiteAnalytics$$anonfun$2
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics.scala -> org.sparkcourse.SparkStreaming_userbehavior.D3_SiteAnalytics$$anonfun$3
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics.scala -> org.sparkcourse.SparkStreaming_userbehavior.D3_SiteAnalytics$$anonfun$4
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics.scala -> org.sparkcourse.SparkStreaming_userbehavior.D3_SiteAnalytics$$anonfun$5
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D3_SiteAnalytics.scala -> org.sparkcourse.SparkStreaming_userbehavior.D3_SiteAnalytics$$anonfun$5$$anonfun$apply$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D4_KafkaEventProducer.scala -> org.sparkcourse.SparkStreaming_userbehavior.D4_KafkaEventProducer
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D4_KafkaEventProducer.scala -> org.sparkcourse.SparkStreaming_userbehavior.D4_KafkaEventProducer$
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics.scala -> org.sparkcourse.SparkStreaming_userbehavior.D5_UserBehaviorKafkaAnalytics
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics.scala -> org.sparkcourse.SparkStreaming_userbehavior.D5_UserBehaviorKafkaAnalytics$
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics.scala -> org.sparkcourse.SparkStreaming_userbehavior.D5_UserBehaviorKafkaAnalytics$$anonfun$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics.scala -> org.sparkcourse.SparkStreaming_userbehavior.D5_UserBehaviorKafkaAnalytics$$anonfun$2
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics.scala -> org.sparkcourse.SparkStreaming_userbehavior.D5_UserBehaviorKafkaAnalytics$$anonfun$3
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics.scala -> org.sparkcourse.SparkStreaming_userbehavior.D5_UserBehaviorKafkaAnalytics$$anonfun$4
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D5_UserBehaviorKafkaAnalytics.scala -> org.sparkcourse.SparkStreaming_userbehavior.D5_UserBehaviorKafkaAnalytics$$anonfun$4$$anonfun$apply$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult.scala -> org.sparkcourse.SparkStreaming_userbehavior.D6_SQLSaveResult
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult.scala -> org.sparkcourse.SparkStreaming_userbehavior.D6_SQLSaveResult$
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult.scala -> org.sparkcourse.SparkStreaming_userbehavior.D6_SQLSaveResult$$anonfun$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult.scala -> org.sparkcourse.SparkStreaming_userbehavior.D6_SQLSaveResult$$anonfun$2
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult.scala -> org.sparkcourse.SparkStreaming_userbehavior.D6_SQLSaveResult$$anonfun$3
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult.scala -> org.sparkcourse.SparkStreaming_userbehavior.D6_SQLSaveResult$$anonfun$4
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult.scala -> org.sparkcourse.SparkStreaming_userbehavior.D6_SQLSaveResult$$anonfun$4$$anonfun$apply$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D6_SQLSaveResult.scala -> org.sparkcourse.SparkStreaming_userbehavior.D6_SQLSaveResult$$anonfun$4$$anonfun$apply$1$$anonfun$apply$2
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> org.sparkcourse.SparkStreaming_userbehavior.D7_SparkStreamingCheckpointing
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> org.sparkcourse.SparkStreaming_userbehavior.D7_SparkStreamingCheckpointing$
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> org.sparkcourse.SparkStreaming_userbehavior.D7_SparkStreamingCheckpointing$$anonfun$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> org.sparkcourse.SparkStreaming_userbehavior.D7_SparkStreamingCheckpointing$$anonfun$2
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> org.sparkcourse.SparkStreaming_userbehavior.D7_SparkStreamingCheckpointing$$anonfun$3
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> org.sparkcourse.SparkStreaming_userbehavior.D7_SparkStreamingCheckpointing$$anonfun$4
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> org.sparkcourse.SparkStreaming_userbehavior.D7_SparkStreamingCheckpointing$$anonfun$5
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> org.sparkcourse.SparkStreaming_userbehavior.D7_SparkStreamingCheckpointing$$anonfun$5$$anonfun$apply$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> org.sparkcourse.SparkStreaming_userbehavior.D7_SparkStreamingCheckpointing$$anonfun$6
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> org.sparkcourse.SparkStreaming_userbehavior.D7_SparkStreamingCheckpointing$$anonfun$7
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> org.sparkcourse.SparkStreaming_userbehavior.D7_SparkStreamingCheckpointing$$anonfun$8
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> org.sparkcourse.SparkStreaming_userbehavior.D7_SparkStreamingCheckpointing$$anonfun$9
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\D7_SparkStreamingCheckpointing.scala -> org.sparkcourse.SparkStreaming_userbehavior.D7_SparkStreamingCheckpointing$$anonfun$9$$anonfun$apply$2
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\DBConnectionPool.java -> org.sparkcourse.SparkStreaming_userbehavior.DBConnectionPool
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\JDBCInsert.scala -> org.sparkcourse.SparkStreaming_userbehavior.JDBCInsert
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\JDBCInsert.scala -> org.sparkcourse.SparkStreaming_userbehavior.JDBCInsert$
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\util\KafkaProperties.scala -> org.sparkcourse.SparkStreaming_userbehavior.util.KafkaProperties
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkStreaming_userbehavior\util\KafkaProperties.scala -> org.sparkcourse.SparkStreaming_userbehavior.util.KafkaProperties$
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkTest.scala -> org.sparkcourse.SparkTest
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkTest.scala -> org.sparkcourse.SparkTest$
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkTest.scala -> org.sparkcourse.SparkTest$$anonfun$1
+   C:\WORK\BigData\workspace\bigdata\src\main\scala\org\sparkcourse\SparkTest.scala -> org.sparkcourse.SparkTest$$anonfun$main$1

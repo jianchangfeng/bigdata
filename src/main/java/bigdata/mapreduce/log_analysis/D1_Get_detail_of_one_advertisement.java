@@ -84,6 +84,7 @@ public class D1_Get_detail_of_one_advertisement extends Configured implements To
         }
         //1.配置job
         Configuration conf = new Configuration();
+//        conf.set("mapred.jar","C:\\WORK\\BigData\\workspace\\bigdata\\target\\zookeeper_pro-jar-with-dependencies.jar");
         Path hdfsOutputPath = new Path(args[1]);//mr在hdfs上的输出路径
         try {
             //如果mr的输出结果路径存在，则删除
