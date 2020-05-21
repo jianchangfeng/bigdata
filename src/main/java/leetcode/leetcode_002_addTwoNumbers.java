@@ -51,7 +51,7 @@ public class leetcode_002_addTwoNumbers {
 
     }
     public static void main(String[] args) {
-// 链表 1
+        // 链表 1
         ListNode list1Node1 = new ListNode(2);
         ListNode list1Node2 = new ListNode(4);
         ListNode list1Node3 = new ListNode(3);

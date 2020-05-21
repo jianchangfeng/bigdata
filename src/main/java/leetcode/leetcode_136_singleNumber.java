@@ -4,7 +4,8 @@ public class leetcode_136_singleNumber {
     public int singleNumber(int[] nums) {
         int ans = nums[0];
         for (int i = 1, len = nums.length; i < len; i++)
-            ans ^= nums[i];
+//            System.out.println(i);
+            ans =  ans ^ nums[i];
         return ans;
     }
 
