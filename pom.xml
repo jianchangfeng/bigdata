@@ -19,7 +19,7 @@ http://www.w3.org/2001/XMLSchema-instance ">
         <hadoop-version>2.8.4</hadoop-version>
         <hbase-version>2.1.5</hbase-version>
         <hbse-client-version>2.1.5</hbse-client-version>
-        <zookeeper-version>3.4.14</zookeeper-version>
+        <zookeeper-version>3.7.2</zookeeper-version>
         <kafka-version>0.10.2.2</kafka-version>
         <java.version>1.8</java.version>
     </properties>
